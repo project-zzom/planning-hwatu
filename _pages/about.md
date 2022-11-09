@@ -1,8 +1,35 @@
 ---
 permalink: /about/
-title: "About"
+title: "제품 정보"
+header:
+  image: /assets/images/header-github-pages.png
+gallery:
+  - url: /assets/images/mockup/card-mockup-1.png
+    image_path: /assets/images/mockup/card-mockup-1.png
+  - url: /assets/images/mockup/card-mockup-2.png
+    image_path: /assets/images/mockup/card-mockup-2.png
+  - url: /assets/images/mockup/card-mockup-3.png
+    image_path: /assets/images/mockup/card-mockup-3.png
+  - url: /assets/images/mockup/card-mockup-4.png
+    image_path: /assets/images/mockup/card-mockup-4.png
+  - url: /assets/images/mockup/card-mockup-5.png
+    image_path: /assets/images/mockup/card-mockup-5.png
+  - url: /assets/images/mockup/card-mockup-6.png
+    image_path: /assets/images/mockup/card-mockup-6.png     
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## 제품 정보
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+![플래닝 화투]({{ site.baseurl }}/assets/images/mockup/card-mockup.png)
+
+{% include gallery %}
+
+* 설계자: 신상재
+* 판매처: 교보문고 / 알라딘 / [네이버 스마트스토어]
+
+
+[교보문고]: https://product.kyobobook.co.kr/detail/S000200083569
+[알라딘]: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=304705923
+[네이버 스마트스토어]: https://smartstore.naver.com/zzom
+
+

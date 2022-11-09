@@ -1,9 +1,19 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+#  - title: "Posts"
+#    url: /posts/
+#  - title: "Categories"
+#    url: /categories/
+#  - title: "Tags"
+#    url: /tags/
+#  - title: "About"
+#    url: /about/
+  - title: "제품 정보"
     url: /about/
+  - title: "새소식"
+    url: /posts/
+  - title: "사용법"
+    url: /manual/
+  - title: "크라우드 펀딩"
+    url: /crowd-funding/
+  - title: "태스크 보드"
+    url: https://github.com/orgs/project-zzom/projects/8    
