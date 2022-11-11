@@ -2,7 +2,7 @@
 permalink: /about/
 title: "제품 정보"
 header:
-  image: /assets/images/header-github-pages.png
+  image: /assets/images/banner 1280 x 500.png
 gallery:
   - url: /assets/images/mockup/card-mockup-1.png
     image_path: /assets/images/mockup/card-mockup-1.png

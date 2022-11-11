@@ -2,7 +2,7 @@
 permalink: /manual/
 title: "설명서"
 header:
-  image: /assets/images/header-github-pages.png
+  image: /assets/images/banner 1280 x 500.png
 ---
 
 ## 사용법

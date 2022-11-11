@@ -2,7 +2,7 @@
 permalink: /crowd-funding/
 title: "크라우드 펀딩"
 header:
-  image: /assets/images/header-github-pages.png
+  image: /assets/images/banner 1280 x 500.png
 ---
 
 '플래닝 화투'는 텀블벅에서 크라우드 펀딩 되었습니다.

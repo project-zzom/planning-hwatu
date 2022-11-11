@@ -4,5 +4,5 @@ permalink: /posts/
 layout: posts
 author_profile: true
 header:
-  image: /assets/images/header-github-pages.png
+  image: /assets/images/banner 1280 x 500.png
 ---
