@@ -1,8 +1,10 @@
 ---
 permalink: /crowd-funding/
 title: "크라우드 펀딩"
+excerpt: "Estimate workload with team members"
 header:
-  image: /assets/images/banner 1280 x 500.png
+  overlay_image: /assets/images/banner 1280 x 500.png
+  overlay_filter: 0.5
 ---
 
 '플래닝 화투'는 텀블벅에서 크라우드 펀딩 되었습니다.

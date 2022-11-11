@@ -1,8 +1,10 @@
 ---
 permalink: /about/
 title: "제품 정보"
+excerpt: "Estimate workload with team members"
 header:
-  image: /assets/images/banner 1280 x 500.png
+  overlay_image: /assets/images/banner 1280 x 500.png
+  overlay_filter: 0.5
 gallery:
   - url: /assets/images/mockup/card-mockup-1.png
     image_path: /assets/images/mockup/card-mockup-1.png
@@ -19,8 +21,6 @@ gallery:
 ---
 
 ## 제품 정보
-
-![플래닝 화투]({{ site.baseurl }}/assets/images/mockup/card-mockup.png)
 
 {% include gallery %}
 
