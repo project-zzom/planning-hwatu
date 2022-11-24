@@ -9,6 +9,8 @@ header:
 
 '플래닝 화투'는 텀블벅에서 크라우드 펀딩 되었습니다.
 
+![크라우드 펀딩]({{ site.baseurl }}/assets/images/crowdfunding-card.png)
+
 * [텀블벅 크라우드 펀딩 프로젝트]
 * [프로젝트 태스크 보드]
 

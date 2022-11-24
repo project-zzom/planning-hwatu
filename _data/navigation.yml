@@ -9,9 +9,11 @@ main:
 #    url: /about/
   - title: "제품 정보"
     url: /about/
+  - title: "사용법"
+    url: /manual/    
+  - title: "구매처"
+    url: /shop/    
   - title: "새소식"
     url: /posts/
-  - title: "사용법"
-    url: /manual/
   - title: "크라우드 펀딩"
     url: /crowd-funding/
