@@ -7,6 +7,8 @@ main:
 #    url: /tags/
 #  - title: "About"
 #    url: /about/
+  - title: "프로젝트 ZZOM"
+    url: https://zzom.io
   - title: "제품 정보"
     url: /about/
   - title: "사용법"
