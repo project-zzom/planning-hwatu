@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "제품 정보"
+title: "굿즈 정보"
 excerpt: "Estimate workload with team members"
 header:
   overlay_image: /assets/images/banner 1280 x 500.png
@@ -20,12 +20,18 @@ gallery:
     image_path: /assets/images/mockup/card-mockup-6.png
 ---
 
-## 제품 정보
+## 굿즈 정보
 
 {% include gallery %}
 
 * 설계자: 신상재
 * 판매처: 준비 중
+
+## 관련 도서
+
+![]({{ site.baseurl }}/assets/images/books/scrum-master.png)
+
+* 출근했더니 스크럼 마스터가 된 건에 관하여 <a href="http://zzom.io/scrum-master" target="_blank" class="btn btn--info">공식 페이지</a>
 
 [Amazon]: https://www.amazon.co.jp/dp/B086GBXRN6/ref=cm_sw_em_r_mt_dp_G837S51HWFJP8FMA9DAC
 [교보문고]: https://product.kyobobook.co.kr/detail/S000200083569

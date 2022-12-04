@@ -10,7 +10,7 @@ main:
   - title: "ZZOM"
     url: https://zzom.io
     target: "_blank" # custom
-  - title: "제품 정보"
+  - title: "굿즈 정보"
     url: /about/
   - title: "사용법"
     url: /manual/    
