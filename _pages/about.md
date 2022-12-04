@@ -17,7 +17,7 @@ gallery:
   - url: /assets/images/mockup/card-mockup-5.png
     image_path: /assets/images/mockup/card-mockup-5.png
   - url: /assets/images/mockup/card-mockup-6.png
-    image_path: /assets/images/mockup/card-mockup-6.png     
+    image_path: /assets/images/mockup/card-mockup-6.png
 ---
 
 ## 제품 정보
