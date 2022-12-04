@@ -1,15 +1,15 @@
 ---
-permalink: /manual/
-title: "설명서"
+permalink: /feature/
+title: "기능"
 excerpt: "Estimate workload with team members"
 header:
   overlay_image: /assets/images/banner 1280 x 500.png
   overlay_filter: 0.5
 ---
 
-## 사용법
+## 기능
 
-일반적인 플래닝 포커 사용 방법을 먼저 설명하고 한국형(?)으로 특별히 재설계된 플래닝 화투 응용 방법을 설명드릴게요.
+일반적인 플래닝 포커를 먼저 설명하고 특별히 재설계된 플래닝 화투를 이어서 설명합니다.
 
 <hr/>
 

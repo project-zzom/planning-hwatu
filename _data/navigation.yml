@@ -12,8 +12,10 @@ main:
     target: "_blank" # custom
   - title: "굿즈 정보"
     url: /about/
-  - title: "사용법"
-    url: /manual/    
+  - title: "기능"
+    url: /feature/
+  - title: "사용자 가이드"
+    url: /user-guide/       
   - title: "구매처"
     url: /shop/    
 # - title: "새소식"

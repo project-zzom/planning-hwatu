@@ -32,8 +32,8 @@ header:
 다음과 같은 9장의 카드를 바닥에 둡니다.
 
 <img src="/assets/images/goods/black-0.png" width="100">
-<img src="/assets/images/goods/black-infinity.png" width="100">
 <img src="/assets/images/goods/black-question.png" width="100">
+<img src="/assets/images/goods/black-infinity.png" width="100">
 <img src="/assets/images/goods/black-asterisk.png" width="100">
 <br/>
 <img src="/assets/images/goods/black-xs.png" width="100">
@@ -52,7 +52,7 @@ header:
 | 사용자 | 최대 4명 | 최대 9명 |
 | 핸드 카드 | 12장 (0, 2, 3, 5, 8, 13, 20, 40, 100, ∞, ?, ☕) | 5장 (1/2, 1, 2, 4, 8)<br/><img src="/assets/images/goods/orange-0.5.png" width="50"><img src="/assets/images/goods/orange-1.png" width="50"><img src="/assets/images/goods/orange-2.png" width="50"><img src="/assets/images/goods/orange-4.png" width="50"><img src="/assets/images/goods/orange-8.png" width="50">|
 | 핸드 카드 (옵션) | 5장 (XS, S, M, L, XL) | 없음 |
-| 그라운드 카드 | 없음 | 9장 (0, ?, ∞, *, XS, S, M, L, XL)<br/><img src="/assets/images/goods/black-0.png" width="50"><img src="/assets/images/goods/black-infinity.png" width="50"><img src="/assets/images/goods/black-question.png" width="50"><img src="/assets/images/goods/black-asterisk.png" width="50"><img src="/assets/images/goods/black-xs.png" width="50"><img src="/assets/images/goods/black-s.png" width="50"><img src="/assets/images/goods/black-m.png" width="50"><img src="/assets/images/goods/black-l.png" width="50"><img src="/assets/images/goods/black-xl.png" width="50"> |
+| 그라운드 카드 | 없음 | 9장 (0, ?, ∞, *, XS, S, M, L, XL)<br/><img src="/assets/images/goods/black-0.png" width="50"><img src="/assets/images/goods/black-question.png" width="50"><img src="/assets/images/goods/black-infinity.png" width="50"><img src="/assets/images/goods/black-asterisk.png" width="50"><br/><img src="/assets/images/goods/black-xs.png" width="50"><img src="/assets/images/goods/black-s.png" width="50"><img src="/assets/images/goods/black-m.png" width="50"><img src="/assets/images/goods/black-l.png" width="50"><img src="/assets/images/goods/black-xl.png" width="50"> |
 | 핸드 카드 사용법 | 손에 쥔 카드를 제시 | 손에 쥔 카드를 제시 |
 | 그라운드 사용법 | 없음 | 바닥의 카드를 타격 |
 
