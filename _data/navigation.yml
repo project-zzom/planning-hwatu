@@ -7,15 +7,16 @@ main:
 #    url: /tags/
 #  - title: "About"
 #    url: /about/
-  - title: "프로젝트 ZZOM"
+  - title: "ZZOM"
     url: https://zzom.io
+    target: "_blank" # custom
   - title: "제품 정보"
     url: /about/
   - title: "사용법"
     url: /manual/    
   - title: "구매처"
     url: /shop/    
-  - title: "새소식"
-    url: /posts/
-  - title: "크라우드 펀딩"
+# - title: "새소식"
+#   url: /posts/
+  - title: "크라우드펀딩"
     url: /crowd-funding/

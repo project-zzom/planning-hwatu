@@ -20,7 +20,7 @@ amazon.com, amazon.co.jp 준비 중
 
 ![]({{ site.baseurl }}/images/pixabay/library-1124718_1280.jpg)
 
-네이버 스마트스토어 준비 중
+ZZOM 스토어 준비 중
 
 * 문의: project.zzom@gmail.com
 
@@ -29,5 +29,5 @@ amazon.com, amazon.co.jp 준비 중
 ![]({{ site.baseurl }}/images/pixabay/hd-wallpaper-1872682_1280.jpg)
 
 * 해외 배송이 필요한 경우: amazon.com, amazon.co.jp (준비 중)
-* 국내 배송이 필요한 경우: 네이버 스마트스토어 (준비 중)
+* 국내 배송이 필요한 경우: ZZOM 스토어 (준비 중)
 

@@ -1,17 +1,17 @@
 ---
 permalink: /crowd-funding/
-title: "크라우드 펀딩"
+title: "크라우드펀딩"
 excerpt: "Estimate workload with team members"
 header:
   overlay_image: /assets/images/banner 1280 x 500.png
   overlay_filter: 0.5
 ---
 
-'플래닝 화투'는 텀블벅에서 크라우드 펀딩 되었습니다.
+'플래닝 화투'는 텀블벅에서 크라우드펀딩 되었습니다.
 
-![크라우드 펀딩]({{ site.baseurl }}/assets/images/crowdfunding-card.png)
+![크라우드펀딩]({{ site.baseurl }}/assets/images/crowdfunding-card.png)
 
-* [텀블벅 크라우드 펀딩 프로젝트]
+* [텀블벅 크라우드펀딩 프로젝트]
 * [프로젝트 태스크 보드]
 
 ### 후원자 리스트
@@ -23,5 +23,5 @@ header:
 그리고 15명의 익명 후원자님
 
 
-[텀블벅 크라우드 펀딩 프로젝트]: https://tumblbug.com/scrum-master
+[텀블벅 크라우드펀딩 프로젝트]: https://tumblbug.com/scrum-master
 [프로젝트 태스크 보드]: https://github.com/orgs/project-zzom/projects/8
