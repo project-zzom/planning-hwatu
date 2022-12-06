@@ -21,26 +21,26 @@ header:
 다음과 같은 5장의 카드를 손에 듭니다.
 최대 9명의 플레이어가 서로 다른 색의 카드를 사용합니다.
 
-<img src="/assets/images/goods/orange-0.5.png" width="100">
-<img src="/assets/images/goods/orange-1.png" width="100">
-<img src="/assets/images/goods/orange-2.png" width="100">
-<img src="/assets/images/goods/orange-4.png" width="100">
-<img src="/assets/images/goods/orange-8.png" width="100">
+<img src="{{ site.baseurl }}/assets/images/goods/orange-0.5.png" width="100">
+<img src="{{ site.baseurl }}/assets/images/goods/orange-1.png" width="100">
+<img src="{{ site.baseurl }}/assets/images/goods/orange-2.png" width="100">
+<img src="{{ site.baseurl }}/assets/images/goods/orange-4.png" width="100">
+<img src="{{ site.baseurl }}/assets/images/goods/orange-8.png" width="100">
 
 ## 그라운드 카드
 플레이어 모두가 함께 쓰는 공용 카드입니다.
 다음과 같은 9장의 카드를 바닥에 둡니다.
 
-<img src="/assets/images/goods/black-0.png" width="100">
-<img src="/assets/images/goods/black-question.png" width="100">
-<img src="/assets/images/goods/black-infinity.png" width="100">
-<img src="/assets/images/goods/black-asterisk.png" width="100">
+<img src="{{ site.baseurl }}/assets/images/goods/black-0.png" width="100">
+<img src="{{ site.baseurl }}/assets/images/goods/black-question.png" width="100">
+<img src="{{ site.baseurl }}/assets/images/goods/black-infinity.png" width="100">
+<img src="{{ site.baseurl }}/assets/images/goods/black-asterisk.png" width="100">
 <br/>
-<img src="/assets/images/goods/black-xs.png" width="100">
-<img src="/assets/images/goods/black-s.png" width="100">
-<img src="/assets/images/goods/black-m.png" width="100">
-<img src="/assets/images/goods/black-l.png" width="100">
-<img src="/assets/images/goods/black-xl.png" width="100">
+<img src="{{ site.baseurl }}/assets/images/goods/black-xs.png" width="100">
+<img src="{{ site.baseurl }}/assets/images/goods/black-s.png" width="100">
+<img src="{{ site.baseurl }}/assets/images/goods/black-m.png" width="100">
+<img src="{{ site.baseurl }}/assets/images/goods/black-l.png" width="100">
+<img src="{{ site.baseurl }}/assets/images/goods/black-xl.png" width="100">
 ## 플래닝 포커와의 차이점
 
 플래닝 포커는 피보나치수열을 사용하고, 플래닝 화투는 2의 거듭제곱을 수열로 사용합니다.
@@ -50,9 +50,9 @@ header:
 | - | - | - |
 | 수열 | 피보나치수열 | 2의 거듭제곱 |
 | 사용자 | 최대 4명 | 최대 9명 |
-| 핸드 카드 | 12장 (0, 2, 3, 5, 8, 13, 20, 40, 100, ∞, ?, ☕) | 5장 (1/2, 1, 2, 4, 8)<br/><img src="/assets/images/goods/orange-0.5.png" width="50"><img src="/assets/images/goods/orange-1.png" width="50"><img src="/assets/images/goods/orange-2.png" width="50"><img src="/assets/images/goods/orange-4.png" width="50"><img src="/assets/images/goods/orange-8.png" width="50">|
+| 핸드 카드 | 12장 (0, 2, 3, 5, 8, 13, 20, 40, 100, ∞, ?, ☕) | 5장 (1/2, 1, 2, 4, 8)<br/><img src="{{ site.baseurl }}/assets/images/goods/orange-0.5.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/orange-1.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/orange-2.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/orange-4.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/orange-8.png" width="50">|
 | 핸드 카드 (옵션) | 5장 (XS, S, M, L, XL) | 없음 |
-| 그라운드 카드 | 없음 | 9장 (0, ?, ∞, *, XS, S, M, L, XL)<br/><img src="/assets/images/goods/black-0.png" width="50"><img src="/assets/images/goods/black-question.png" width="50"><img src="/assets/images/goods/black-infinity.png" width="50"><img src="/assets/images/goods/black-asterisk.png" width="50"><br/><img src="/assets/images/goods/black-xs.png" width="50"><img src="/assets/images/goods/black-s.png" width="50"><img src="/assets/images/goods/black-m.png" width="50"><img src="/assets/images/goods/black-l.png" width="50"><img src="/assets/images/goods/black-xl.png" width="50"> |
+| 그라운드 카드 | 없음 | 9장 (0, ?, ∞, *, XS, S, M, L, XL)<br/><img src="{{ site.baseurl }}/assets/images/goods/black-0.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/black-question.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/black-infinity.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/black-asterisk.png" width="50"><br/><img src="{{ site.baseurl }}/assets/images/goods/black-xs.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/black-s.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/black-m.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/black-l.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/black-xl.png" width="50"> |
 | 핸드 카드 사용법 | 손에 쥔 카드를 제시 | 손에 쥔 카드를 제시 |
 | 그라운드 사용법 | 없음 | 바닥의 카드를 타격 |
 
@@ -101,11 +101,11 @@ header:
 
 | 카드 | 의미 | 
 | - | - |
-| <img src="/assets/images/goods/black-xs.png" width="50"> | 많이 작은 일감 |
-| <img src="/assets/images/goods/black-s.png" width="50"> |  조금 작은 일감 |
-| <img src="/assets/images/goods/black-m.png" width="50"> |  보통 일감 |
-| <img src="/assets/images/goods/black-l.png" width="50"> |  조금 큰 일감 |
-| <img src="/assets/images/goods/black-xl.png" width="50"> | 많이 큰 일감 |
+| <img src="{{ site.baseurl }}/assets/images/goods/black-xs.png" width="50"> | 많이 작은 일감 |
+| <img src="{{ site.baseurl }}/assets/images/goods/black-s.png" width="50"> |  조금 작은 일감 |
+| <img src="{{ site.baseurl }}/assets/images/goods/black-m.png" width="50"> |  보통 일감 |
+| <img src="{{ site.baseurl }}/assets/images/goods/black-l.png" width="50"> |  조금 큰 일감 |
+| <img src="{{ site.baseurl }}/assets/images/goods/black-xl.png" width="50"> | 많이 큰 일감 |
 
 M 크기로 분류된 프로덕트 백로그 항목을 살펴봅니다.
 그 중에서 팀원 모두가 작업량에 대해 공감하는 걸 고릅니다.
@@ -140,11 +140,11 @@ M 크기로 분류된 프로덕트 백로그 항목을 살펴봅니다.
 
 | 카드 | 의미 | 
 | - | - |
-| <img src="/assets/images/goods/orange-0.5.png" width="50"> | 다음 단계 작업량의 반 |
-| <img src="/assets/images/goods/orange-1.png" width="50"> |  기준 작업량의 반 |
-| <img src="/assets/images/goods/orange-2.png" width="50"> |  작업량 기준 |
-| <img src="/assets/images/goods/orange-4.png" width="50"> |  기준 작업량의 배 |
-| <img src="/assets/images/goods/orange-8.png" width="50"> | 이전 단계 작업량의 배 |
+| <img src="{{ site.baseurl }}/assets/images/goods/orange-0.5.png" width="50"> | 다음 단계 작업량의 반 |
+| <img src="{{ site.baseurl }}/assets/images/goods/orange-1.png" width="50"> |  기준 작업량의 반 |
+| <img src="{{ site.baseurl }}/assets/images/goods/orange-2.png" width="50"> |  작업량 기준 |
+| <img src="{{ site.baseurl }}/assets/images/goods/orange-4.png" width="50"> |  기준 작업량의 배 |
+| <img src="{{ site.baseurl }}/assets/images/goods/orange-8.png" width="50"> | 이전 단계 작업량의 배 |
 
 ### 추정을 끊을 때 쓰는 카드
 
@@ -152,10 +152,10 @@ M 크기로 분류된 프로덕트 백로그 항목을 살펴봅니다.
 
 | 카드 | 의미 | 
 | - | - |
-| <img src="/assets/images/goods/black-0.png" width="50"> | 작업할 필요가 없어 추정이 무의미할 때 |
-| <img src="/assets/images/goods/black-question.png" width="50"> | 작업 내용이 불명확해서 추정이 불가능할 때 |
-| <img src="/assets/images/goods/black-infinity.png" width="50"> | 작업량이 너무 커서 추정이 불가능할 때 |
-| <img src="/assets/images/goods/black-asterisk.png" width="50"> | 추정을 멈추고 휴식이 필요할 때 |
+| <img src="{{ site.baseurl }}/assets/images/goods/black-0.png" width="50"> | 작업할 필요가 없어 추정이 무의미할 때 |
+| <img src="{{ site.baseurl }}/assets/images/goods/black-question.png" width="50"> | 작업 내용이 불명확해서 추정이 불가능할 때 |
+| <img src="{{ site.baseurl }}/assets/images/goods/black-infinity.png" width="50"> | 작업량이 너무 커서 추정이 불가능할 때 |
+| <img src="{{ site.baseurl }}/assets/images/goods/black-asterisk.png" width="50"> | 추정을 멈추고 휴식이 필요할 때 |
 
 핸드 카드를 바닥에 타격하거나 그라운드 카드를 핸드 카드로 타격하면서 작업량을 표현하세요.
 프로덕트 백로그 항목의 작업량 크기를 포인트로 표현할 수 있습니다. 
@@ -177,10 +177,10 @@ M 크기로 분류된 프로덕트 백로그 항목을 살펴봅니다.
 
 | 그라운드 카드 | 핸드 카드 | 의미 |
 | - | - | - |
-| <img src="/assets/images/goods/black-asterisk.png" width="50"> | <img src="/assets/images/goods/orange-0.5.png" width="50"> | 좀 쉬었다가 하면 안될까요? |
-| <img src="/assets/images/goods/black-asterisk.png" width="50"> | <img src="/assets/images/goods/orange-1.png" width="50"> | 쉬었다가 하시죠. |
-| <img src="/assets/images/goods/black-asterisk.png" width="50"> | ... | ... |
-| <img src="/assets/images/goods/black-asterisk.png" width="50"> | <img src="/assets/images/goods/orange-0.5.png" width="50"><img src="/assets/images/goods/orange-1.png" width="50"><img src="/assets/images/goods/orange-2.png" width="50"><img src="/assets/images/goods/orange-4.png" width="50"><img src="/assets/images/goods/orange-8.png" width="50"> | 커피는 내가 쏠테니까 제발 쉬자고!  |
+| <img src="{{ site.baseurl }}/assets/images/goods/black-asterisk.png" width="50"> | <img src="{{ site.baseurl }}/assets/images/goods/orange-0.5.png" width="50"> | 좀 쉬었다가 하면 안될까요? |
+| <img src="{{ site.baseurl }}/assets/images/goods/black-asterisk.png" width="50"> | <img src="{{ site.baseurl }}/assets/images/goods/orange-1.png" width="50"> | 쉬었다가 하시죠. |
+| <img src="{{ site.baseurl }}/assets/images/goods/black-asterisk.png" width="50"> | ... | ... |
+| <img src="{{ site.baseurl }}/assets/images/goods/black-asterisk.png" width="50"> | <img src="{{ site.baseurl }}/assets/images/goods/orange-0.5.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/orange-1.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/orange-2.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/orange-4.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/orange-8.png" width="50"> | 커피는 내가 쏠테니까 제발 쉬자고!  |
 
 크기가 작은 카드로 타격하면서 조심스럽게 의견을 물어볼 수 있습니다.
 한번에 여러 장의 카드를 투척하면서 강한 의지를 표현할 수 있습니다.
@@ -203,13 +203,13 @@ M 크기로 분류된 프로덕트 백로그 항목을 살펴봅니다.
 
 | 카드 | 포인트 |
 | - | - |
-| <img src="/assets/images/goods/orange-0.5.png" width="50"> | 0.5 포인트  |
-| <img src="/assets/images/goods/orange-1.png" width="50"> | 1포인트 |
-| <img src="/assets/images/goods/orange-0.5.png" width="50"><img src="/assets/images/goods/orange-1.png" width="50"> | 1.5 포인트 |
-| <img src="/assets/images/goods/orange-2.png" width="50"> | 2 포인트 |
+| <img src="{{ site.baseurl }}/assets/images/goods/orange-0.5.png" width="50"> | 0.5 포인트  |
+| <img src="{{ site.baseurl }}/assets/images/goods/orange-1.png" width="50"> | 1포인트 |
+| <img src="{{ site.baseurl }}/assets/images/goods/orange-0.5.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/orange-1.png" width="50"> | 1.5 포인트 |
+| <img src="{{ site.baseurl }}/assets/images/goods/orange-2.png" width="50"> | 2 포인트 |
 | ... | ... |
-| <img src="/assets/images/goods/orange-1.png" width="50"><img src="/assets/images/goods/orange-2.png" width="50"><img src="/assets/images/goods/orange-4.png" width="50"><img src="/assets/images/goods/orange-8.png" width="50"> | 15 포인트 |
-| <img src="/assets/images/goods/orange-0.5.png" width="50"><img src="/assets/images/goods/orange-1.png" width="50"><img src="/assets/images/goods/orange-2.png" width="50"><img src="/assets/images/goods/orange-4.png" width="50"><img src="/assets/images/goods/orange-8.png" width="50"> | 15.5 포인트 |
+| <img src="{{ site.baseurl }}/assets/images/goods/orange-1.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/orange-2.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/orange-4.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/orange-8.png" width="50"> | 15 포인트 |
+| <img src="{{ site.baseurl }}/assets/images/goods/orange-0.5.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/orange-1.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/orange-2.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/orange-4.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/orange-8.png" width="50"> | 15.5 포인트 |
 
 0.5 단위로 정교하게 포인트를 표현할 수 있습니다.
 0.5에서 15.5까지 폭 넓게 포인트를 표현할 수 있습니다.
@@ -284,13 +284,13 @@ M 크기로 분류된 프로덕트 백로그 항목을 살펴봅니다.
 
 | 카드 | 의미 (소요일) | 의미 (소요 시간) |
 | - | - | - |
-| <img src="/assets/images/goods/orange-0.5.png" width="50"> | 0.5 일  | 0.5 시간 | 
-| <img src="/assets/images/goods/orange-1.png" width="50"> | 1 일 | 1 시간 |
-| <img src="/assets/images/goods/orange-0.5.png" width="50"><img src="/assets/images/goods/orange-1.png" width="50"> | 1.5 일 | 1.5 시간 |
-| <img src="/assets/images/goods/orange-2.png" width="50"> | 2 일 | 2 시간 |
+| <img src="{{ site.baseurl }}/assets/images/goods/orange-0.5.png" width="50"> | 0.5 일  | 0.5 시간 | 
+| <img src="{{ site.baseurl }}/assets/images/goods/orange-1.png" width="50"> | 1 일 | 1 시간 |
+| <img src="{{ site.baseurl }}/assets/images/goods/orange-0.5.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/orange-1.png" width="50"> | 1.5 일 | 1.5 시간 |
+| <img src="{{ site.baseurl }}/assets/images/goods/orange-2.png" width="50"> | 2 일 | 2 시간 |
 | ... | ... | ... |
-| <img src="/assets/images/goods/orange-1.png" width="50"><img src="/assets/images/goods/orange-2.png" width="50"><img src="/assets/images/goods/orange-4.png" width="50"><img src="/assets/images/goods/orange-8.png" width="50"> | 15 일 | 15 시간 |
-| <img src="/assets/images/goods/orange-0.5.png" width="50"><img src="/assets/images/goods/orange-1.png" width="50"><img src="/assets/images/goods/orange-2.png" width="50"><img src="/assets/images/goods/orange-4.png" width="50"><img src="/assets/images/goods/orange-8.png" width="50"> | 15.5 일 | 15.5 시간 |
+| <img src="{{ site.baseurl }}/assets/images/goods/orange-1.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/orange-2.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/orange-4.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/orange-8.png" width="50"> | 15 일 | 15 시간 |
+| <img src="{{ site.baseurl }}/assets/images/goods/orange-0.5.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/orange-1.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/orange-2.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/orange-4.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/orange-8.png" width="50"> | 15.5 일 | 15.5 시간 |
 
 날짜로 사용 시 반일에서 3주 반일까지 표현할 수 있습니다.
 시간으로 사용 시 30분에서 15시간 30분까지 표현할 수 있습니다.
