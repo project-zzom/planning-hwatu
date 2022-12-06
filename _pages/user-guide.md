@@ -14,7 +14,7 @@ header:
 * 그라운드 카드: 9장 (검정색 9장)
 * 핸드 카드: 45장 (9가지색 x 5장)
 
-![전체 카드 이미지](/assets/images/goods/planning-hwatu-front.png)
+![전체 카드 이미지]({{ site.baseurl }}/assets/images/goods/planning-hwatu-front.png)
 
 ## 핸드 카드 
 플레이어 모두가 각자 쓰는 개인 카드입니다.
