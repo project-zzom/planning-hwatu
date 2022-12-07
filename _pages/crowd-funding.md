@@ -9,7 +9,7 @@ header:
 
 '플래닝 화투'는 텀블벅에서 크라우드펀딩 되었습니다.
 
-![크라우드펀딩]({{ site.baseurl }}/assets/images/crowdfunding-card.png)
+![크라우드펀딩]({{ site.baseurl }}/assets/images/crowdfunding/crowdfunding-page.png)
 
 <a href="https://tumblbug.com/scrum-master" target="_blank" class="btn btn--info">프로젝트 정보</a>
 <a href="https://github.com/orgs/project-zzom/projects/8" target="_blank" class="btn btn--info">태스크보드 현황</a>

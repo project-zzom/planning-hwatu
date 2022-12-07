@@ -43,63 +43,10 @@ header:
 <img src="{{ site.baseurl }}/assets/images/goods/black-m.png" width="100">
 <img src="{{ site.baseurl }}/assets/images/goods/black-l.png" width="100">
 <img src="{{ site.baseurl }}/assets/images/goods/black-xl.png" width="100">
-## 플래닝 포커와의 차이점
 
-플래닝 포커는 피보나치수열을 사용하고, 플래닝 화투는 2의 거듭제곱을 수열로 사용합니다.
-플래닝 포커는 모든 카드를 손에 쥐고, 플래닝 화투는 최소한의 카드만 손에 쥐고 나머지는 바닥에 둡니다.
+### 작업을 크기로 분류할 때 쓰는 카드
 
-| 관점 | 플래닝 포커 | 플래닝 화투 |
-| - | - | - |
-| 수열 | 피보나치수열 | 2의 거듭제곱 |
-| 사용자 | 최대 4명 | 최대 9명 |
-| 핸드 카드 | 12장 (0, 2, 3, 5, 8, 13, 20, 40, 100, ∞, ?, ☕) | 5장 (1/2, 1, 2, 4, 8)<br/><img src="{{ site.baseurl }}/assets/images/goods/orange-0.5.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/orange-1.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/orange-2.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/orange-4.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/orange-8.png" width="50">|
-| 핸드 카드 (옵션) | 5장 (XS, S, M, L, XL) | 없음 |
-| 그라운드 카드 | 없음 | 9장 (0, ?, ∞, *, XS, S, M, L, XL)<br/><img src="{{ site.baseurl }}/assets/images/goods/black-0.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/black-question.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/black-infinity.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/black-asterisk.png" width="50"><br/><img src="{{ site.baseurl }}/assets/images/goods/black-xs.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/black-s.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/black-m.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/black-l.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/black-xl.png" width="50"> |
-| 핸드 카드 사용법 | 손에 쥔 카드를 제시 | 손에 쥔 카드를 제시 |
-| 그라운드 사용법 | 없음 | 바닥의 카드를 타격 |
-
-그라운드 카드를 타격할 때 손에 쥔 카드의 숫자 크기만큼 강약을 표현할 수 있습니다.
-강약 표현 방법은 뒤에서 다룹니다.
-
----
-
-# 사용 방법 이해하기
-
-추정에 참여하는 플레이어는 다음과 같습니다.
-
-| 역할 | 설명 | 
-| - | - |
-| 프로덕트 오너 | 프로덕트 백로그 항목을 설명 |
-| 스크럼 마스터 | 추정 절차나 방법을 안내 |
-| 개발자 | 작업자 관점에서 작업량을 예측 |
-
-추정 순서는 다음과 같습니다.
-
-## 기준 작업 고르기
-
-* 프로덕트 백로그 항목의 내용을 프로덕트 오너가 설명합니다.
-* 개발자가 백로그 항목을 작업량 크기로 분류합니다.
-* 스크럼 마스터는 중간 크기의 그룹에서 누구나 공감하는 항목을 고릅니다.
-* 고른 항목의 작업량을 기준 작업량으로 삼습니다.
-
-![기준 찾기]()
-
-
-## 작업량 추정하기
-
-* 프로덕트 백로그 항목의 내용을 프로덕트 오너가 상기 시킵니다.
-* 개발자는 자신이 생각한 작업량을 카드로 표현합니다.
-* 스크럼 마스터는 개발자 간의 인식 차이를 좁혀주면서 합의를 이끕니다.
-* 다음 스프린트에서 작업할 만큼만 반복합니다.
-
-![추정 하기]()
-
----
-
-# 기준 작업 고르기
-
-작업량의 크기를 5단계로 표현할 수 있습니다.
-프로덕트 백로그 항목의 작업량 크기를 의류 사이즈로 표현할 수 있습니다.
+작업량 추정 전에 작업을 5단계 크기로 분류할 때 사용합니다.
 
 | 카드 | 의미 | 
 | - | - |
@@ -109,22 +56,98 @@ header:
 | <img src="{{ site.baseurl }}/assets/images/goods/black-l.png" width="50"> |  조금 큰 일감 |
 | <img src="{{ site.baseurl }}/assets/images/goods/black-xl.png" width="50"> | 많이 큰 일감 |
 
-M 크기로 분류된 프로덕트 백로그 항목을 살펴봅니다.
-그 중에서 팀원 모두가 작업량에 대해 공감하는 걸 고릅니다.
-골라낸 작업량을 기준 작업량으로 정합니다.
+### 추정의 흐름을 끊을 때 쓰는 카드
+
+작업량 추정이 의미없을 때 사용합니다.
+
+| 카드 | 의미 | 
+| - | - |
+| <img src="{{ site.baseurl }}/assets/images/goods/black-0.png" width="50"> | 작업할 필요가 없어 추정이 무의미할 때 |
+| <img src="{{ site.baseurl }}/assets/images/goods/black-question.png" width="50"> | 작업 내용이 불명확해서 추정이 불가능할 때 |
+| <img src="{{ site.baseurl }}/assets/images/goods/black-infinity.png" width="50"> | 작업량이 너무 커서 추정이 불가능할 때 |
+| <img src="{{ site.baseurl }}/assets/images/goods/black-asterisk.png" width="50"> | 추정을 멈추고 휴식이 필요할 때 |
 
 ## 플래닝 포커와의 차이점
 
+플래닝 포커는 피보나치수열을 사용하고, 플래닝 화투는 2의 거듭제곱을 수열로 사용합니다.
+플래닝 포커는 모든 카드를 손에 쥐고, 플래닝 화투는 최소한의 카드만 손에 쥐고 나머지는 바닥에 둡니다.
+
+| 항목 | 플래닝 포커 | 플래닝 화투 |
+| - | - | - |
+| 수열 | 피보나치수열 | 2의 거듭제곱 |
+| 사용자 | 최대 4명 | 최대 9명 |
+| 핸드 카드 | 12장인 제품<br/>(0, 2, 3, 5, 8, 13, 20, 40, 100, ∞, ?, ☕)<br/><br/>20장인 제품<br/>(0, 1/2, 1, 2, 3, 5, 8, 13, 20, 40, , 80, 100, ∞, ?, ☕, XS, S, M, L, XL) | 5장<br/>(1/2, 1, 2, 4, 8)<br/><img src="{{ site.baseurl }}/assets/images/goods/orange-0.5.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/orange-1.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/orange-2.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/orange-4.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/orange-8.png" width="50">|
+| 그라운드 카드 | 없음 | 9장<br/> (0, ?, ∞, *, XS, S, M, L, XL)<br/><img src="{{ site.baseurl }}/assets/images/goods/black-0.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/black-question.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/black-infinity.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/black-asterisk.png" width="50"><br/><img src="{{ site.baseurl }}/assets/images/goods/black-xs.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/black-s.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/black-m.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/black-l.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/black-xl.png" width="50"> |
+| 핸드 카드 사용법 | 손에 쥔 카드를 제시 | 손에 쥔 카드를 바닥에 타격 |
+| 그라운드 카드 사용법 | 없음 | 손에 쥔 카드로 바닥의 카드를 타격 |
+
 플래닝 포커에선 XS, S, M, L, XL 카드가 핸드 카드입니다.
 플래닝 화투에선 XS, S, M, L, XL 카드가 그라운드 카드입니다.
+플래닝 화투는 핸드 카드 수를 줄여 더 많은 플레이어가 참여할 수 있게 설계되었습니다. (최대 9명)
 
-|  | 플래닝 포커 | 플래닝 화투 |
-| - | - | - |
-| XS, S, M, L, XL 표현법 | 손에 쥔 카드를 제시 | 바닥에 놓인 카드를 타격 |
+한편 그라운드 카드를 타격할 때 손에 쥔 카드의 숫자 크기만큼 강약을 표현할 수 있습니다.
+강약 표현 방법은 뒤에서 설명합니다.
 
-플래닝 화투는 핸드 카드 수를 줄여 더 많은 플레이어가 참여할 수 있게 설계되었습니다.
+---
 
-![그라운드 카드]()
+# 사용 방법 이해하기
+
+## 참여자
+
+추정에 참여하는 플레이어는 다음과 같습니다.
+
+| 역할 | 설명 | 
+| - | - |
+| 프로덕트 오너 | 프로덕트 백로그 항목을 설명 |
+| 스크럼 마스터 | 추정 절차나 방법을 안내 |
+| 개발자 | 작업자 관점에서 작업량을 예측 |
+
+## 기준 작업(기준 포인트) 고르기
+
+작업량 추정 전에 기준 작업을 고릅니다. 기준 작업은 작업량이 크지도, 작지도 않은, 참여자 전원이 비슷하게 작업량을 짐작하는 작업입니다.
+
+### 포스트잇을 사용하는 경우
+
+1 프로덕트 백로그 항목의 내용을 프로덕트 오너가 설명합니다.
+![설명하기]({{ site.baseurl }}/assets/images/user-guide/프로덕트_백로그_항목_설명하기.png)
+
+2 개발자가 백로그 항목을 작업량 크기로 분류합니다.
+![분류하기]({{ site.baseurl }}/assets/images/user-guide/카드_쓰지_않고_기준_작업_정하기_1.png)
+
+3 스크럼 마스터는 중간 크기의 그룹에서 모두가 작업량에 공감하는 항목을 고릅니다.
+![기준잡기]({{ site.baseurl }}/assets/images/user-guide/카드_쓰지_않고_기준_작업_정하기_2.png)
+
+4 고른 항목의 작업량을 기준 작업량으로 삼습니다. 
+
+일반적으로 기준 작업량은 3 정도로 잡고 단위는 '소요일'이나 '소요시간'과 같은 구체적인 단위가 아닌 '포인트'라는 상대적인 크기를 표현하는 단위를 씁니다. (예: 기준 작업량은 3 포인트)
+
+### 플래닝 포커 확장판을 사용하는 경우
+
+플래닝 포커 제품 중에는 XS, S, M, L, XL 카드를 포함한 확장판이 있습니다. (핸드 카드가 20장) 작업량을 추정할 때 포스트잇이 아닌 핸드카드로 크기를 표현합니다.
+
+## 작업량 추정하기
+
+1 프로덕트 백로그 항목의 내용을 프로덕트 오너가 설명합니다.
+![설명하기]({{ site.baseurl }}/assets/images/user-guide/플래닝_포커로_기준_작업_정하기_1.png)
+
+2 개발자는 자신이 생각한 작업량을 카드로 표현합니다.
+![분류하기]({{ site.baseurl }}/assets/images/user-guide/플래닝_포커로_기준_작업_정하기_2.png)
+
+3 스크럼 마스터는 개발자 간의 인식 차이를 좁혀주면서 합의를 이끕니다.
+4 다음 스프린트에서 작업할 만큼만 반복합니다.
+
+### 플래닝 화투를 사용하는 경우
+
+플래닝 화투에선 XS, S, M, L, XL 카드를 모두가 함께 쓰는 그라운드 카드로 둡니다. 작업량을 추정할 때는 핸드 카드로 그라운드 카드를 타격하여 크기를 표현합니다.
+
+1 프로덕트 백로그 항목의 내용을 프로덕트 오너가 설명합니다.
+![설명하기]({{ site.baseurl }}/assets/images/user-guide/플래닝_화투로_기준_작업_정하기_1.png)
+
+2 개발자는 자신이 생각한 작업량을 카드로 표현합니다. 이때 숫자의 크기로 의지의 강약을 표현할 수 있습니다. 여러 장의 카드를 합산할 수 있습니다. (예: S는 3, M은 14이므로 M으로 판정)
+![분류하기]({{ site.baseurl }}/assets/images/user-guide/플래닝_화투로_기준_작업_정하기_2.png)
+
+3 스크럼 마스터는 개발자 간의 인식 차이를 좁혀주면서 합의를 이끕니다.
+4 다음 스프린트에서 작업할 만큼만 반복합니다.
 
 ---
 
@@ -148,16 +171,6 @@ M 크기로 분류된 프로덕트 백로그 항목을 살펴봅니다.
 | <img src="{{ site.baseurl }}/assets/images/goods/orange-4.png" width="50"> |  기준 작업량의 배 |
 | <img src="{{ site.baseurl }}/assets/images/goods/orange-8.png" width="50"> | 이전 단계 작업량의 배 |
 
-### 추정을 끊을 때 쓰는 카드
-
-플래닝 화투에선 추정을 끊는 카드를 바닥에 놓습니다.
-
-| 카드 | 의미 | 
-| - | - |
-| <img src="{{ site.baseurl }}/assets/images/goods/black-0.png" width="50"> | 작업할 필요가 없어 추정이 무의미할 때 |
-| <img src="{{ site.baseurl }}/assets/images/goods/black-question.png" width="50"> | 작업 내용이 불명확해서 추정이 불가능할 때 |
-| <img src="{{ site.baseurl }}/assets/images/goods/black-infinity.png" width="50"> | 작업량이 너무 커서 추정이 불가능할 때 |
-| <img src="{{ site.baseurl }}/assets/images/goods/black-asterisk.png" width="50"> | 추정을 멈추고 휴식이 필요할 때 |
 
 핸드 카드를 바닥에 타격하거나 그라운드 카드를 핸드 카드로 타격하면서 작업량을 표현하세요.
 프로덕트 백로그 항목의 작업량 크기를 포인트로 표현할 수 있습니다. 
@@ -168,7 +181,7 @@ M 크기로 분류된 프로덕트 백로그 항목을 살펴봅니다.
 플래닝 화투는 가장 작은 수가 0, 가장 큰 수가 8입니다.
 와일드 카드(*)의 의미는 팀에서 재정의 가능합니다. (예: 커피, 피자, 사다리, 탁구 등)
 
-|  | 플래닝 포커 | 플래닝 화투 |
+| 항목 | 플래닝 포커 | 플래닝 화투 |
 | - | - | - |
 | 0 표현법 | 손에 쥔 0 카드를 제시 | 바닥에 놓인 0 카드를 타격 |
 | ? 표현법 | 손에 쥔 ? 카드를 제시 | 바닥에 놓인 ? 카드를 타격 |
@@ -221,7 +234,7 @@ M 크기로 분류된 프로덕트 백로그 항목을 살펴봅니다.
 플래닝 포커는 한 장의 카드만 쓸 수 있습니다. 
 플래닝 화투는 여러 장의 카드를 합산해서 쓸 수 있습니다.
 
-|  | 플래닝 포커 | 플래닝 화투 |
+| 항목 | 플래닝 포커 | 플래닝 화투 |
 | - | - | - |
 | 카드 사용 | 한 장의 카드만 사용  | 여러 장의 카드를 사용 |
 
@@ -259,7 +272,7 @@ M 크기로 분류된 프로덕트 백로그 항목을 살펴봅니다.
 플래닝 포커는 앵커 효과를 배제합니다.
 플래닝 화투는 앵커 효과를 배제할 수도, 응용할 수도 있습니다.
 
-|  | 플래닝 포커 | 플래닝 화투 |
+| 항목 | 플래닝 포커 | 플래닝 화투 |
 | - | - | - |
 | 앵커 효과 | 배제  | 배제 / 응용 |
 | 착안점 | 생각의 차이를 확인하고 합의 유도 | 생각을 보완하며 구체화 유도 |
@@ -302,7 +315,7 @@ M 크기로 분류된 프로덕트 백로그 항목을 살펴봅니다.
 플래닝 포커는 프로덕트 백로그 항목의 작업량 추정까지만 사용합니다.
 플래닝 화투는 스프린트 백로그 항목의 작업량 추정에도 쓸 수 있습니다.
 
-|  | 플래닝 포커 | 플래닝 화투 |
+| 항목 | 플래닝 포커 | 플래닝 화투 |
 | - | - | - |
 | 작업량 표현 | 스토리 포인트  | 스토리 포인트, 소요일, 소요 시간 |
 | 활용 범위 | 프로덕트 백로그 작업량 추정  | 프로덕트 백로그, 스프린트 백로그 작업량 추정 |
