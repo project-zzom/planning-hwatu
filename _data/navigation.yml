@@ -12,13 +12,23 @@ main:
     target: "_blank" # custom
   - title: "굿즈 정보"
     url: /about/
-  - title: "기능"
-    url: /feature/
   - title: "사용자 가이드"
-    url: /user-guide/       
+    url: /user-guide-overview/       
   - title: "구매처"
     url: /shop/    
 # - title: "새소식"
 #   url: /posts/
   - title: "크라우드펀딩"
     url: /crowd-funding/
+
+user-guide-menu:
+  - title: "개요"
+    url: /user-guide-overview/
+  - title: "플래닝 포커"
+    url: /user-guide-planning-poker/
+  - title: "플래닝 화투"
+    url: /user-guide-planning-hwatu/
+  - title: "특징과 차이점"
+    url: /user-guide-poker-vs-hwatu/
+  - title: "기능"
+    url: /user-guide-feature/
