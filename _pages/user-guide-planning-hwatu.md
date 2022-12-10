@@ -10,15 +10,13 @@ sidebar:
     nav: "user-guide-menu"
 ---
 
-(작성 보완 중)
-
 <div class="notice--info" markdown="1">
 **용어 설명**
 * 핸드 카드: 참여자가 손에 쥐는 개인 카드
 * 그라운드 카드: 테이블 위에 올려두는 공용 카드
 </div>
 
-<br/><br/>
+<br/>
 
 # 카드 구성 이해하기
 
@@ -102,7 +100,7 @@ sidebar:
 | <img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/black-infinity.png" width="50"> | 작업량이 너무 커서 추정이 불가능할 때<br/>(예: 더 작게 분해해야 하는 작업) |
 | <img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/black-asterisk.png" width="50"> | 추정을 멈추고 휴식이 필요할 때<br/>(예: 커피, 간식, 사다리, 재정의 가능) |
 
-<br/><br/>
+<br/>
 
 # 사용 방법 이해하기
 
@@ -175,9 +173,9 @@ sidebar:
 5 고른 항목의 작업량을 기준 작업량으로 삼습니다.
 (예: 기준 작업 2 포인트)
 
-<br/><br/>
+<br/>
 
-## 작업량 추정하기 (기본)
+## 작업량 추정하기 (포인트 추정)
 
 프로덕트 백로그의 작업량을 포인트로 추정합니다.
 
@@ -191,7 +189,6 @@ sidebar:
 <img alt="산정하기" src="{{ site.baseurl }}/assets/images/user-guide/플래닝_화투로_작업량(포인트)_산정하기_1.png">
 <figcaption>1/2배, 2배와 같이 직관적이고 균일하게 추정</figcaption>
 </figure>
-
 
 2 추정한 작업량의 차이가 크면 서로의 생각을 공유합니다.
 
@@ -222,9 +219,7 @@ sidebar:
 <figcaption>휴식이 필요하다고 생각하는 경우 (아주 강한 의지)</figcaption>
 </figure>
 
-<br/><br/>
-
-# 작업량 추정하기 (응용)
+## 작업량 추정하기 (정밀 추정)
 
 ## 프로덕트 백로그의 작업량을 포인트로 추정할 때
 
@@ -248,8 +243,6 @@ sidebar:
 
 0.5 단위로 정교하게 포인트를 표현할 수 있습니다.
 0.5에서 15.5까지 폭 넓게 포인트를 표현할 수 있습니다.
-
-<br/><br/>
 
 ### 카드 제시하는 방법
 
@@ -290,13 +283,11 @@ sidebar:
 <figcaption>앵커 효과를 역이용하며 여러 장의 카드로 정밀하게 추정하기</figcaption>
 </figure>
 
-<br/><br/>
-
-# 작업량 추정하기 (응용)
+## 작업량 추정하기 (소요일 / 소요시간 추정)
 
 작업량을 '포인트'로 산정하던 것을 '소요일'이나 '소요시간'처럼 더 구체적인 단위로 추정할 수 있습니다.
 
-## 스프린크 백로그의 작업량을 날짜나 시간으로 추정하는 방법
+### 스프린크 백로그의 작업량을 추정하는 방법
 
 추상적인 스토리 포인트보다 구체적인 시간으로 작업량을 표현하고 싶을 수 있습니다.
 그럴 때는 팀원과 상의하여 작업 소요일이나 소요시간으로 단위를 바꿔보세요.
@@ -312,29 +303,35 @@ sidebar:
 | <img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-1.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-2.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-4.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-8.png" width="50"> | 15 일 | 15 시간 |
 | <img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-0.5.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-1.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-2.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-4.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-8.png" width="50"> | 15.5 일 | 15.5 시간 |
 
+날짜로 사용 시 반일에서 3주 반일까지 표현할 수 있습니다.
 <figure>
 <img alt="소요일 산정하기" src="{{ site.baseurl }}/assets/images/user-guide/플래닝_화투로_작업량(소요일)_산정하기.png">
 <figcaption>최소 반일 간격으로 소요일 산정하기</figcaption>
 </figure>
-날짜로 사용 시 반일에서 3주 반일까지 표현할 수 있습니다.
 
+시간으로 사용 시 30분에서 15시간 30분까지 표현할 수 있습니다.
 <figure>
 <img alt="소요시간 산정하기" src="{{ site.baseurl }}/assets/images/user-guide/플래닝_화투로_작업량(소요시간)_산정하기.png">
 <figcaption>최소 30분 간격으로 소요시간 산정하기</figcaption>
 </figure>
-시간으로 사용 시 30분에서 15시간 30분까지 표현할 수 있습니다.
 
-## 페어 프로그래밍이나 몹 프로그래밍에서 타임 박싱을 하는 방법
+### 페어 / 몹 프로그래밍에서 타임 박싱을 하는 방법
 
 스프린트 백로그 항목은 작업을 할당 받은 개발자가 소요시간을 추정하는 게 보통입니다.
 페어 프로그래밍을 하거나 몹 프로그래밍을 할 때 서로가 생각하는 소요시간을 제시하며 추정해보세요.
+목표 시간으로 설정하면 더 집중해서 협업할 수 있을 겁니다.
 
-![페어 프로그래밍]()
+<figure>
+<img alt="페이 프로그래밍 목표 시간 추정하기" src="{{ site.baseurl }}/assets/images/user-guide/페어_프로그래밍에서_작업량_추정하기.png">
+<figcaption>페이 프로그래밍에서 목표 시간 추정하기</figcaption>
+</figure>
 
-# 분산 환경에서 온라인으로 추정하기 (확장)
+# 분산 환경에서 온라인으로 추정하기
 
-효율적인 사용을 위해 온라인용 플래닝 포커를 추천합니다. 단 재택이나 원격 근무 중에도 아날로그 감성을 만끽하고 싶다면 별도의 웹캠으로 각자의 테이블에 놓인 카드를 비춰보세요. 
-나중에 누군가가 이미지를 인식하는 서비스를 만들어 줄지도 모르니까요!
+플래닝 포커는 팀원 간의 원활한 커뮤니케이션에 도움이 되지만 분산된 환경에선 함께하기 어려울 수 있습니다.
+참여자가 분산된 공간에 흩어져 있다면 효율적인 사용을 위해 온라인용 플래닝 포커를 추천합니다.<br/>
+단 재택이나 원격 근무 중에도 아날로그 감성을 만끽하고 싶다면 별도의 웹캠으로 각자의 테이블에 놓인 카드를 비춰보세요.<br/>
+나중에 누군가가 카드 이미지를 인식하는 서비스를 만들어 줄지도 모르니까요!
 
 <figure>
 <img alt="원격으로 추정하기" src="{{ site.baseurl }}/assets/images/user-guide/플래닝_화투로_원격_추정하기.png">
