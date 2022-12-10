@@ -241,6 +241,11 @@ sidebar:
 | <img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-1.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-2.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-4.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-8.png" width="50"> | 15 포인트 |
 | <img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-0.5.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-1.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-2.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-4.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-8.png" width="50"> | 15.5 포인트 |
 
+<figure>
+<img alt="카드를 2장 이상 사용하기" src="{{ site.baseurl }}/assets/images/user-guide/플래닝_화투로_작업량(포인트)_산정하기_6.png">
+<figcaption>카드를 2장 이상 사용하기</figcaption>
+</figure>
+
 0.5 단위로 정교하게 포인트를 표현할 수 있습니다.
 0.5에서 15.5까지 폭 넓게 포인트를 표현할 수 있습니다.
 
@@ -255,7 +260,10 @@ sidebar:
 앵커 효과는 앞 사람의 행동이 뒷 사람에게 영향을 주는 걸 말합니다.<br/>
 플래닝 포커를 할 때는 앵커 효과를 배제하기 위해 모든 참여자가 동시에 카드를 제시합니다.
 
-![동시에 카드 제시하기]()
+<figure>
+<img alt="카드 제시하기" src="{{ site.baseurl }}/assets/images/user-guide/플래닝_화투로_작업량(포인트)_산정하기_1.png">
+<figcaption>앵커 효과를 배제하기 위해 동시에 카드를 제시하기</figcaption>
+</figure>
 
 플래닝 포커는 동시에 카드를 제출한 후 생각의 차이를 서로 확인하는 걸 중요시 합니다.
 각자의 생각을 공유하고 합의를 유도하는 과정을 반복합니다.
@@ -265,11 +273,22 @@ sidebar:
 앵커 효과로 앞 사람의 의견을 적극적으로 청취하고 보완하거나 강화하면서 이견을 좁힙니다.
 플래닝 화투를 할 때는 앵커 효과를 역이용하기 위해 시계 반대 방향으로 순서대로 카드를 제시합니다.
 
-![차례대로 카드 제시하기]()
+<figure>
+<img alt="카드 제시하기" src="{{ site.baseurl }}/assets/images/user-guide/플래닝_화투로_작업량(포인트)_산정하기_7.png">
+<figcaption>앵커 효과를 역이용하기 위해 차례대로 1장의 카드로 추정하기</figcaption>
+</figure>
 
-차례대로 카드를 제시하며 각자의 생각을 공유합니다.
-다음 사람은 앞 사람의 추정에 의견을 더하거나 빼면서 구체화합니다.
-추상적인 작업 내용을 모두가 공감하는 수준까지 구체화하는 과정을 반복합니다.
+차례대로 카드를 제시하며 각자의 생각을 공유합니다. <br/>
+다음 사람은 앞 사람의 추정에 의견을 더하거나 빼면서 구체화합니다.<br/>
+추상적인 작업 내용을 모두가 공감하는 수준까지 구체화하는 과정을 반복합니다.<br/>
+<br/>
+이때도 역시 2장 이상의 카드를 함께 사용할 수 있습니다. 1장만 사용할 때보다 수열 간격이 좁아지므로 더 정밀하게 추정할 수 있습니다.<br/>
+(예: 팀원이 함께 협업한 경험이 많은 경우 유용)
+
+<figure>
+<img alt="카드 제시하기" src="{{ site.baseurl }}/assets/images/user-guide/플래닝_화투로_작업량(포인트)_산정하기_8.png">
+<figcaption>앵커 효과를 역이용하며 여러 장의 카드로 정밀하게 추정하기</figcaption>
+</figure>
 
 <br/><br/>
 
@@ -280,10 +299,10 @@ sidebar:
 ## 스프린크 백로그의 작업량을 날짜나 시간으로 추정하는 방법
 
 추상적인 스토리 포인트보다 구체적인 시간으로 작업량을 표현하고 싶을 수 있습니다.
-그럴 때는 팀원과 상의하여 작업 소요일이나 소요 시간으로 단위를 바꿔보세요.
+그럴 때는 팀원과 상의하여 작업 소요일이나 소요시간으로 단위를 바꿔보세요.
 이때도 역시 여러 장의 카드를 합산해서 쓰면 됩니다.
 
-| 카드 | 의미 (소요일) | 의미 (소요 시간) |
+| 카드 | 의미 (소요일) | 의미 (소요시간) |
 | - | - | - |
 | <img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-0.5.png" width="50"> | 0.5 일  | 0.5 시간 | 
 | <img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-1.png" width="50"> | 1 일 | 1 시간 |
@@ -293,13 +312,22 @@ sidebar:
 | <img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-1.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-2.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-4.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-8.png" width="50"> | 15 일 | 15 시간 |
 | <img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-0.5.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-1.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-2.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-4.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-8.png" width="50"> | 15.5 일 | 15.5 시간 |
 
+<figure>
+<img alt="소요일 산정하기" src="{{ site.baseurl }}/assets/images/user-guide/플래닝_화투로_작업량(소요일)_산정하기.png">
+<figcaption>최소 반일 간격으로 소요일 산정하기</figcaption>
+</figure>
 날짜로 사용 시 반일에서 3주 반일까지 표현할 수 있습니다.
+
+<figure>
+<img alt="소요시간 산정하기" src="{{ site.baseurl }}/assets/images/user-guide/플래닝_화투로_작업량(소요시간)_산정하기.png">
+<figcaption>최소 30분 간격으로 소요시간 산정하기</figcaption>
+</figure>
 시간으로 사용 시 30분에서 15시간 30분까지 표현할 수 있습니다.
 
 ## 페어 프로그래밍이나 몹 프로그래밍에서 타임 박싱을 하는 방법
 
-스프린트 백로그 항목은 작업을 할당 받은 개발자가 소요 시간을 추정하는 게 보통입니다.
-페어 프로그래밍을 하거나 몹 프로그래밍을 할 때 서로가 생각하는 소요 시간을 제시하며 추정해보세요.
+스프린트 백로그 항목은 작업을 할당 받은 개발자가 소요시간을 추정하는 게 보통입니다.
+페어 프로그래밍을 하거나 몹 프로그래밍을 할 때 서로가 생각하는 소요시간을 제시하며 추정해보세요.
 
 ![페어 프로그래밍]()
 
@@ -308,4 +336,7 @@ sidebar:
 효율적인 사용을 위해 온라인용 플래닝 포커를 추천합니다. 단 재택이나 원격 근무 중에도 아날로그 감성을 만끽하고 싶다면 별도의 웹캠으로 각자의 테이블에 놓인 카드를 비춰보세요. 
 나중에 누군가가 이미지를 인식하는 서비스를 만들어 줄지도 모르니까요!
 
-![온라인 플래닝 화투]()
+<figure>
+<img alt="원격으로 추정하기" src="{{ site.baseurl }}/assets/images/user-guide/플래닝_화투로_원격_추정하기.png">
+<figcaption>재택 근무 중에 원격으로 추정하기</figcaption>
+</figure>

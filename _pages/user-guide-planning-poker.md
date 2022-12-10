@@ -189,7 +189,7 @@ sidebar:
 
 1 각자 생각한 작업량의 크기를 카드로 표현합니다. 이때 모든 참여자가 동시에 제시합니다.
 <figure>
-<img alt="산정하기" src="{{ site.baseurl }}/assets/images/user-guide/플래닝_포커로_작업량(포인트)_산정하기.png">
+<img alt="산정하기" src="{{ site.baseurl }}/assets/images/user-guide/플래닝_포커로_작업량(포인트)_산정하기_1.png">
 <figcaption>작업량이 커질수록 넓은 간격으로 추정</figcaption>
 </figure>
 
@@ -218,7 +218,7 @@ sidebar:
 
 <figure>
 <img alt="가중치주기" src="{{ site.baseurl }}/assets/images/user-guide/플래닝_포커로_작업량(포인트)_산정하기_5.png">
-<figcaption>휴식이 필요하다고 생각하는 경우 (강한 의지)</figcaption>
+<figcaption>휴식이 필요하다고 생각하는 경우</figcaption>
 </figure>
 
 <br/><br/>
@@ -232,7 +232,10 @@ sidebar:
 앵커 효과는 앞 사람의 행동이 뒷 사람에게 영향을 주는 걸 말합니다.<br/>
 플래닝 포커를 할 때는 앵커 효과를 배제하기 위해 모든 참여자가 동시에 카드를 제시합니다.
 
-![동시에 카드 제시하기]()
+<figure>
+<img alt="카드 제시하기" src="{{ site.baseurl }}/assets/images/user-guide/플래닝_포커로_작업량(포인트)_산정하기_1.png">
+<figcaption>앵커 효과를 배제하기 위해 동시에 카드를 제시하기</figcaption>
+</figure>
 
 플래닝 포커는 동시에 카드를 제출한 후 생각의 차이를 서로 확인하는 걸 중요시 합니다.
 각자의 생각을 공유하고 합의를 유도하는 과정을 반복합니다.
@@ -241,4 +244,7 @@ sidebar:
 
 효율적인 사용을 위해 온라인용 플래닝 포커를 추천합니다. 
 
-![온라인 플래닝 포커]()
+<figure>
+<img alt="원격으로 추정하기" src="{{ site.baseurl }}/assets/images/user-guide/플래닝_포커로_원격_추정하기.png">
+<figcaption>재택 근무 중에 원격으로 추정하기</figcaption>
+</figure>
