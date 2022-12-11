@@ -19,13 +19,19 @@ sidebar:
 
 <br/>
 
+플래닝 포커의 일반적인 사용 방법은 아래 자료를 참고하세요.
+
+* <a href="https://bit.ly/3WRZRjM" target="_blank">A brief overview of planning poker</a>
+
+여기서는 플래닝 화투의 설명 내용에 앞서 플래닝 포커에 대해 간단히 설명합니다.
+
 # 카드 구성 이해하기
 
 ## 플래닝 포커의 카드 구성
 플래닝 포커 구성은 다음과 같습니다.<br/>
 총 54장으로 1개 데크로 최대 4명의 참여자가 쓸 수 있습니다. 
 
-* 핸드 카드: 52장 (4가지색 x 개인용 13장)
+* 핸드 카드: 52장 (4가지 색 x 개인용 13장)
 * 설명 카드: 2장 (사용법 안내)
 
 <figure>
@@ -41,12 +47,12 @@ sidebar:
 <img src="{{ site.baseurl }}/assets/images/goods/planning-poker/violet-0.5.png" width="100">
 <img src="{{ site.baseurl }}/assets/images/goods/planning-poker/violet-1.png" width="100">
 <img src="{{ site.baseurl }}/assets/images/goods/planning-poker/violet-2.png" width="100">
-<img src="{{ site.baseurl }}/assets/images/goods/planning-poker/violet-3.png" width="100">
+<img src="{{ site.baseurl }}/assets/images/goods/planning-poker/violet-3.png" width="100"><br/>
 <img src="{{ site.baseurl }}/assets/images/goods/planning-poker/violet-5.png" width="100">
 <img src="{{ site.baseurl }}/assets/images/goods/planning-poker/violet-8.png" width="100">
 <img src="{{ site.baseurl }}/assets/images/goods/planning-poker/violet-13.png" width="100">
 <img src="{{ site.baseurl }}/assets/images/goods/planning-poker/violet-20.png" width="100">
-<img src="{{ site.baseurl }}/assets/images/goods/planning-poker/violet-40.png" width="100">
+<img src="{{ site.baseurl }}/assets/images/goods/planning-poker/violet-40.png" width="100"><br/>
 <img src="{{ site.baseurl }}/assets/images/goods/planning-poker/violet-100.png" width="100">
 <img src="{{ site.baseurl }}/assets/images/goods/planning-poker/violet-infinity.png" width="100">
 <img src="{{ site.baseurl }}/assets/images/goods/planning-poker/violet-question.png" width="100">
@@ -71,7 +77,7 @@ sidebar:
 
 ### 엑스트라 카드
 별도로 구매하거나 한 사람이 20장을 쓰는 제품에 포함되는 카드입니다.
-다음과 같은 카드를 추가로 손에 쥡니다.
+다음과 같은 카드를 추가로 손에 쥡니다. (<a href="https://www.flaticon.com/free-icons/tea" title="tea icons">커피잔 아이콘 출처: Flaticon</a>)
 
 <img src="{{ site.baseurl }}/assets/images/goods/planning-poker/violet-xs.png" width="100">
 <img src="{{ site.baseurl }}/assets/images/goods/planning-poker/violet-s.png" width="100">
@@ -81,6 +87,8 @@ sidebar:
 <br/>
 <img src="{{ site.baseurl }}/assets/images/goods/planning-poker/violet-break.png" width="100">
 <figcaption>엑스트라 카드 구성</figcaption>
+
+
 
 ### 엑스트라 카드의 기능
 
@@ -199,7 +207,7 @@ sidebar:
 
 <figure>
 <img alt="추정멈추기" src="{{ site.baseurl }}/assets/images/user-guide/플래닝_포커로_작업량(포인트)_산정하기_2.png">
-<figcaption>작업을 할 필요없다고 생각하는 경우</figcaption>
+<figcaption>작업을 할 필요 없다고 생각하는 경우</figcaption>
 </figure>
 
 <figure>
@@ -226,13 +234,13 @@ sidebar:
 작업량 추정 시 카드를 제시하는 방법에는 나름의 노림수가 있습니다.
 
 #### 동시에 카드를 제시하는 방법
-앵커 효과를 배제한 방법입니다.<br/>
-앵커 효과는 앞 사람의 행동이 뒷 사람에게 영향을 주는 걸 말합니다. 
-플래닝 포커를 할 때는 앵커 효과를 배제하기 위해 모든 참여자가 동시에 카드를 제시합니다.
+앵커링 효과(anchoring effect)를 배제한 방법입니다.<br/>
+앵커링 효과(anchoring effect)는 앞사람의 행동이 뒷사람에게 영향을 주는 걸 말합니다. 
+플래닝 포커를 할 때는 앵커링 효과(anchoring effect)를 배제하기 위해 모든 참여자가 동시에 카드를 제시합니다.
 
 <figure>
 <img alt="카드 제시하기" src="{{ site.baseurl }}/assets/images/user-guide/플래닝_포커로_작업량(포인트)_산정하기_1.png">
-<figcaption>앵커 효과를 배제하기 위해 동시에 카드를 제시하기</figcaption>
+<figcaption>앵커링 효과(anchoring effect)를 배제하기 위해 동시에 카드를 제시하기</figcaption>
 </figure>
 
 플래닝 포커는 동시에 카드를 제출한 후 생각의 차이를 서로 확인하는 걸 중요시 합니다.
@@ -245,5 +253,5 @@ sidebar:
 
 <figure>
 <img alt="원격으로 추정하기" src="{{ site.baseurl }}/assets/images/user-guide/플래닝_포커로_원격_추정하기.png">
-<figcaption>재택 근무 중에 원격으로 추정하기</figcaption>
+<figcaption>재택근무 중에 원격으로 추정하기</figcaption>
 </figure>

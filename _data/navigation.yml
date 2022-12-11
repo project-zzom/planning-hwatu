@@ -28,7 +28,5 @@ user-guide-menu:
     url: /user-guide-planning-poker/
   - title: "플래닝 화투"
     url: /user-guide-planning-hwatu/
-  - title: "특징과 차이점"
+  - title: "플래닝 포커 vs. 플래닝 화투"
     url: /user-guide-poker-vs-hwatu/
-  - title: "기능"
-    url: /user-guide-feature/
