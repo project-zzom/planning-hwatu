@@ -305,13 +305,13 @@ sidebar:
 | <img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-1.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-2.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-4.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-8.png" width="50"> | 15 일 | 15 시간 |
 | <img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-0.5.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-1.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-2.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-4.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-8.png" width="50"> | 15.5 일 | 15.5 시간 |
 
-날짜로 사용 시 반일에서 3주 반일까지 표현할 수 있습니다.
+소요일은 반일에서 3주 반일까지 추정할 수 있습니다. (주 5일제 근무 기준)
 <figure>
 <img alt="소요일 산정하기" src="{{ site.baseurl }}/assets/images/user-guide/플래닝_화투로_작업량(소요일)_산정하기.png">
 <figcaption>최소 반일 간격으로 소요일 산정하기</figcaption>
 </figure>
 
-시간으로 사용 시 30분에서 15시간 30분까지 표현할 수 있습니다.
+소요시간은 30-분에서 15시간 30분까지 추정할 수 있습니다.
 <figure>
 <img alt="소요시간 산정하기" src="{{ site.baseurl }}/assets/images/user-guide/플래닝_화투로_작업량(소요시간)_산정하기.png">
 <figcaption>최소 30분 간격으로 소요시간 산정하기</figcaption>
