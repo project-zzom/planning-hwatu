@@ -11,7 +11,7 @@ sidebar:
 ---
 <!--
 <div class="notice--info" markdown="1">
-**용어 설명**
+**쓰임에 따른 카드 분류**
 * 설명 카드: 카드 사용법이 기재된 카드
 * 핸드 카드: 참여자가 손에 쥐는 개인 카드
 * 엑스트라 카드: 별도 판매되거나 확장된 제품에서 쓰는 카드
@@ -228,6 +228,10 @@ sidebar:
 <figcaption>휴식이 필요하다고 생각하는 경우</figcaption>
 </figure>
 
+6 추정을 멈춰야 했던 이유가 해소되면 다시 추정을 계속합니다.
+
+7 곧 작업할 백로그 항목의 작업량이 모두 확인되면 추정을 종료합니다.
+
 <br/>
 
 ### 카드를 제시하는 방법
@@ -253,6 +257,6 @@ sidebar:
 참여자가 분산된 공간에 흩어져 있다면 효율적인 사용을 위해 온라인용 플래닝 포커를 추천합니다. 
 
 <figure>
-<img alt="원격으로 추정하기" src="{{ site.baseurl }}/assets/images/user-guide/플래닝_포커로_원격_추정하기.png">
-<figcaption>재택근무 중에 원격으로 추정하기</figcaption>
+<img alt="분산 환경에서 온라인으로 추정하기" src="{{ site.baseurl }}/assets/images/user-guide/플래닝_포커로_원격_추정하기.png">
+<figcaption>재택근무 중에 분산 환경에서 온라인으로 추정하기</figcaption>
 </figure>
