@@ -9,13 +9,14 @@ author_profile: false
 sidebar:
     nav: "user-guide-menu"
 ---
-
+<!--
 <div class="notice--info" markdown="1">
 **용어 설명**
 * 설명 카드: 카드 사용법이 기재된 카드
 * 핸드 카드: 참여자가 손에 쥐는 개인 카드
 * 엑스트라 카드: 별도 판매되거나 확장된 제품에서 쓰는 카드
 </div>
+-->
 
 <br/>
 

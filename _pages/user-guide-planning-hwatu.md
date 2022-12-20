@@ -9,12 +9,13 @@ author_profile: false
 sidebar:
     nav: "user-guide-menu"
 ---
-
+<!--
 <div class="notice--info" markdown="1">
 **용어 설명**
 * 핸드 카드: 참여자가 손에 쥐는 개인 카드
 * 그라운드 카드: 테이블 위에 올려두는 공용 카드
 </div>
+-->
 
 <br/>
 
