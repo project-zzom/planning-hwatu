@@ -232,17 +232,20 @@ sidebar:
 | <img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-0.5.png" width="50"> | 0.5 포인트  |
 | <img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-1.png" width="50"> | 1포인트 |
 | <img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-0.5.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-1.png" width="50"> | 1.5 포인트 |
-| <img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-2.png" width="50"> | 2 포인트 |
 | ... | ... |
 | <img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-1.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-2.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-4.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-8.png" width="50"> | 15 포인트 |
 | <img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-0.5.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-1.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-2.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-4.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-8.png" width="50"> | 15.5 포인트 |
 
+1/2 카드를 사용하면 0.5 단위로 정교하게 포인트를 표현할 수 있습니다. 모든 카드를 사용하면 0.5에서 15.5까지 폭넓게 포인트를 표현할 수 있습니다.
+
+작업량 추정 시 빠른 합의를 원한다면 1장의 카드만 사용하고, 정교한 추정치를 원한다면 2장 이상의 카드를 사용하면 됩니다.
+
 <figure>
 <img alt="카드를 2장 이상 사용하기" src="{{ site.baseurl }}/assets/images/user-guide/플래닝_화투로_작업량(포인트)_산정하기_6.png">
-<figcaption>카드를 2장 이상 사용하기</figcaption>
+<figcaption>2장 이상의 카드를 합산하여 정교하게 추정하기</figcaption>
 </figure>
 
-1/2 카드를 사용하면 0.5 단위로 정교하게 포인트를 표현할 수 있습니다. 모든 카드를 사용하면 0.5에서 15.5까지 폭넓게 포인트를 표현할 수 있습니다.
+
 
 ### 카드를 제시하는 방법
 
@@ -300,7 +303,6 @@ sidebar:
 | <img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-0.5.png" width="50"> | 0.5 일  | 0.5 시간 | 
 | <img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-1.png" width="50"> | 1 일 | 1 시간 |
 | <img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-0.5.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-1.png" width="50"> | 1.5 일 | 1.5 시간 |
-| <img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-2.png" width="50"> | 2 일 | 2 시간 |
 | ... | ... | ... |
 | <img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-1.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-2.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-4.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-8.png" width="50"> | 15 일 | 15 시간 |
 | <img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-0.5.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-1.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-2.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-4.png" width="50"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-8.png" width="50"> | 15.5 일 | 15.5 시간 |
