@@ -22,6 +22,8 @@ main:
     url: /crowd-funding/
 
 user-guide-menu:
+  - title: "설계자의 말"
+    url: /user-guide-designer/
   - title: "개요"
     url: /user-guide-overview/
   - title: "플래닝 포커"

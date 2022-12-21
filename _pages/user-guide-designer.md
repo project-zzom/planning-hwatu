@@ -1,3 +1,15 @@
+---
+permalink: /user-guide-designer/
+title: "설계자의 말"
+excerpt: "Estimate workload with team members"
+header:
+  overlay_image: /assets/images/banner 1280 x 500.png
+  overlay_filter: 0.5
+author_profile: false
+sidebar:
+    nav: "user-guide-menu"
+---
+
 # 설계자의 말
 
 ## 사실 나는 플래닝 포커를 잘 쓰지 못했다
