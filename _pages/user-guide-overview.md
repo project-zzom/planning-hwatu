@@ -10,9 +10,23 @@ sidebar:
     nav: "user-guide-menu"
 ---
 
-(작성 보완 중)
+#### 플래닝 화투 사용자 가이드 다운로드
 
-### 쓰임에 따른 카드 분류
+<figure>
+<img alt="Project ZZOM" src="{{ site.baseurl }}/assets/images/user-guide/user-guide-pdf.png">
+<figcaption>펼침면 2페이지 보기용 사용자 가이드</figcaption>
+</figure>
+
+플래닝 화투 사용자 가이드 PDF판을 다운로드 받아 출력해서 보세요.
+펼침면 2페이지 보기용이 좌우 내용을 살피기에 적합합니다.
+
+* <a href="{{ site.baseurl }}/download/Planning Hwatu User Guide (ko - spread).pdf">플래닝 화투 사용자 가이드 v0.9 (2페이지 보기용)</a>
+* <a href="{{ site.baseurl }}/download/Planning Hwatu User Guide (ko - page).pdf">플래닝 화투 사용자 가이드 v0.9 (1페이지 보기용)</a>
+
+![플래닝 포커 사진]()
+
+#### 카드 분류
+
 본 사용자 가이드에서는 카드의 쓰임에 따라 다음과 같이 분류합니다.
 
 | 카드 | 의미 | 
@@ -27,7 +41,10 @@ sidebar:
  소프트웨어를 개발할 때 팀원의 개발 경험을 기반으로 작업량을 추정하는 도구로 '스크럼 포커', '스크럼 카드'라고도 합니다.<br/>
 대표적인 제품으론 <a href="https://www.mountaingoatsoftware.com/" target="_blank">마운틴 고트 소프트웨어</a>의 'PLANNING POKER'가 있습니다.
 
-![플래닝 포커 사진]()
+<figure>
+<img alt="Project ZZOM" src="{{ site.baseurl }}/assets/images/goods/planning-poker/planning-poker-goods.png">
+<figcaption>플래닝 포커 사진 (aliexpress에서 구입 가능한 scrum poker)</figcaption>
+</figure>
 
 ### 플래닝 포커를 왜 하나요?
 
@@ -38,7 +55,10 @@ sidebar:
 
 '플래닝 화투'는 '플래닝 포커'의 기능을 승계하여 리팩터링한 도구면서 기존 룰을 살짝 비틀어서 쓸 수 있게 재설계한 도구입니다.
 
-![플래닝 화투 사진]()
+<figure>
+<img alt="Project ZZOM" src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/planning-hwatu-goods.png">
+<figcaption>플래닝 화투 사진 (프로토타입)</figcaption>
+</figure>
 
 ### 플래닝 화투를 왜 하나요?
 
