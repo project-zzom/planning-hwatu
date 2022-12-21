@@ -14,11 +14,11 @@ sidebar:
 
 플래닝 포커와 플래닝 화투의 차이점은 다음과 같습니다.
 
-## 카드 구성
+## 카드 구성의 차이
 
 카드 구성 상의 차이는 다음과 같습니다.
 
-### 수열
+### 사용하는 수열
 
 플래닝 포커는 피보나치수열을 응용한 숫자를 사용하고, 플래닝 화투는 2의 거듭제곱을 수열로 사용합니다.
 
@@ -88,11 +88,11 @@ sidebar:
 * <a href="" target="_blank">Planning Hwatu (Amazon US)</a> (준비 중)
 * <a href="" target="_blank">Planning Hwatu (Amazon JP)</a> (준비 중)
 
-## 카드 사용법
+## 카드 사용법의 차이
 
 카드 사용법 상의 차이는 다음과 같습니다.
 
-### 합산
+### 카드를 합산하여 정교하게 추정하기
 
 플래닝 포커는 한 장의 카드만 쓸 수 있습니다. 
 플래닝 화투는 여러 장의 카드를 합산해서 쓸 수 있습니다.
@@ -101,7 +101,7 @@ sidebar:
 | - | - | - |
 | 카드 사용 | 한 장의 카드만 사용  | 여러 장의 카드를 사용 |
 
-### 의지의 강약 표현
+### 카드를 합산하여 강약을 표현하기
 
 그라운드 카드를 타격할 때는 손에 쥔 핸드 카드의 숫자 크기로 강약을 표현할 수 있습니다.
 
@@ -110,9 +110,9 @@ sidebar:
 | <img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/black-asterisk.png" width="45"> | <img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-0.5.png" width="45"> | 문의<br/>(좀 쉬었다가 하면 안 될까요?) |
 | <img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/black-asterisk.png" width="45"> | <img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-1.png" width="45"> | 권유<br/>(쉬었다가 하시죠.) |
 | <img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/black-asterisk.png" width="45"> | ... | ... |
-| <img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/black-asterisk.png" width="45"> | <img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-0.5.png" width="45"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-1.png" width="45"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-2.png" width="45"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-4.png" width="45"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-8.png" width="45"> | 제안<br/>(커피는 제가 쏠테니 제발 쉬어요!)  |
+| <img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/black-asterisk.png" width="45"> | <img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-0.5.png" width="45"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-1.png" width="45"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-2.png" width="45"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-4.png" width="45"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/orange-8.png" width="45"> | 거부하기 힘든 제안<br/>(커피는 제가 쏠테니 제발 쉬어요!)  |
 
-### 역 앵커링 효과
+### 역 앵커링 효과로 작업 방법 구체화하기
 
 플래닝 포커는 앵커링 효과(anchoring effect)를 배제합니다.
 플래닝 화투는 앵커링 효과를 배제할 수도, 응용할 수도 있습니다.
@@ -124,7 +124,7 @@ sidebar:
 
 역 앵커링은 다음과 같은 팀에 적용할 수 있습니다.
 
-#### 오래 호흡을 맞추면서 비슷한 경험을 쌓은 팀
+#### 오래 호흡을 맞추면서 맞추면서 비슷한 경험을 쌓은 팀
 앞사람의 의견을 보완하면서 진행합니다.
 호흡을 오래 맞춘 팀원끼리는 앵커 되는 정보가 서로 공감하는 내용일 확률이 높습니다. 이때는 뒷사람이 앞사람의 의견에 누락된 내용을 보충하거나 강화하는 등 정보를 구체화하고 보완하는데 더 집중할 수 있습니다. 
 
@@ -149,7 +149,7 @@ sidebar:
 숙련자가 먼저 추정하는 방식에선 입문자는 그걸 목표치로 생각하되 실제로 자신이 맡을 때의 예상치를 말합니다.
 입문자가 먼저 추정하는 방식에선 숙련자가 더 효율적이고 구체적인 방법을 제시하며 기술 이전을 합니다.
 
-## 추정 대상
+## 체감되는 단위로 작업량 추정하기
 
 플래닝 포커는 프로덕트 백로그 항목의 작업량 추정까지만 사용합니다.
 플래닝 화투는 스프린트 백로그 항목의 작업량 추정에도 쓸 수 있습니다.
@@ -165,7 +165,7 @@ sidebar:
 플래닝 포커에서도 소요일, 소요시간을 추정하기도 하나 수열의 간격이 균일하지 않고 정밀하지 않으며 상대적인 크기를 직감하기 어려워 표현력이 떨어질 수 있습니다.
 플래닝 화투는 균일한 간격, 0.5 단위의 정밀함, 1/2배(반반), 2배(따블)과 같은 직관적인 표현이 가능합니다.
 
-# 정리
+# 정리하기
 
 플래닝 화투는 플래닝 포커를 부정하거나 대적하는 안티테제(antithesis) 도구가 아닙니다. 
 기존의 플래닝 포커를 사용하면서 팀의 숙련도나 성향과 맞지 않아 적극적인 활용을 꺼리는 상황을 개선하기 위한 진테제(synthesis) 도구입니다.
