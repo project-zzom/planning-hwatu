@@ -23,8 +23,6 @@ sidebar:
 * <a href="{{ site.baseurl }}/download/Planning Hwatu User Guide (ko - spread).pdf">플래닝 화투 사용자 가이드 v0.9 (2페이지 보기용)</a>
 * <a href="{{ site.baseurl }}/download/Planning Hwatu User Guide (ko - page).pdf">플래닝 화투 사용자 가이드 v0.9 (1페이지 보기용)</a>
 
-![플래닝 포커 사진]()
-
 #### 카드 분류
 
 본 사용자 가이드에서는 카드의 쓰임에 따라 다음과 같이 분류합니다.
