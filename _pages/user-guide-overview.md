@@ -17,11 +17,12 @@ sidebar:
 <figcaption>펼침면 2페이지 보기용 사용자 가이드</figcaption>
 </figure>
 
-플래닝 화투 사용자 가이드 PDF판을 다운로드 받아 출력해서 보세요.
+플래닝 화투 사용자 가이드 PDF판을 다운로드받아 출력해서 보세요.
+온라인 사용자 가이드보다 최신 내용으로 업데이트됩니다.
 펼침면 2페이지 보기용이 좌우 내용을 살피기에 적합합니다.
 
-* <a href="https://github.com/project-zzom/planning-hwatu/raw/master/download/Planning%20Hwatu%20User%20Guide%20(ko%20-%20spread).pdf">플래닝 화투 사용자 가이드 v0.9 (2페이지 보기용)</a>
-* <a href="https://github.com/project-zzom/planning-hwatu/raw/master/download/Planning%20Hwatu%20User%20Guide%20(ko%20-%20page).pdf">플래닝 화투 사용자 가이드 v0.9 (1페이지 보기용)</a>
+* <a href="https://github.com/project-zzom/planning-hwatu/raw/master/download/Planning%20Hwatu%20User%20Guide%20(ko%20-%20spread).pdf">플래닝 화투 사용자 가이드 v1.0.0 (2페이지 보기용)</a>
+* <a href="https://github.com/project-zzom/planning-hwatu/raw/master/download/Planning%20Hwatu%20User%20Guide%20(ko%20-%20page).pdf">플래닝 화투 사용자 가이드 v1.0.0 (1페이지 보기용)</a>
 
 #### 카드 분류
 
