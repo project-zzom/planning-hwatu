@@ -6,6 +6,18 @@ header:
   overlay_image: /assets/images/banner 1280 x 500.png
   overlay_filter: 0.5
 gallery:
+  - url: /assets/images/goods/planning-hwatu/planning-hwatu-case.jpg
+    image_path: /assets/images/goods/planning-hwatu/planning-hwatu-case.jpg
+  - url: /assets/images/goods/planning-hwatu/planning-hwatu-flower.jpg
+    image_path: /assets/images/goods/planning-hwatu/planning-hwatu-flower.jpg
+  - url: /assets/images/goods/planning-hwatu/planning-hwatu-hand-card.jpg
+    image_path: /assets/images/goods/planning-hwatu/planning-hwatu-card.jpg
+  - url: /assets/images/goods/planning-hwatu/IMG_20221222_225503.jpg
+    image_path: /assets/images/goods/planning-hwatu/IMG_20221222_225503.jpg
+  - url: /assets/images/goods/planning-hwatu/IMG_20221222_224939.jpg
+    image_path: /assets/images/goods/planning-hwatu/IMG_20221222_224939.jpg
+  - url: /assets/images/goods/planning-hwatu/IMG_20221222_223229.jpg
+    image_path: /assets/images/goods/planning-hwatu/IMG_20221222_223229.jpg
   - url: /assets/images/mockup/card-mockup-1.png
     image_path: /assets/images/mockup/card-mockup-1.png
   - url: /assets/images/mockup/card-mockup-2.png
@@ -25,7 +37,7 @@ gallery:
 {% include gallery %}
 
 * 설계자: 신상재
-* 판매처: 준비 중
+* 판매처: <a href="https://bit.ly/3Ge4dui" target="_blank">ZZOM 스토어</a>
 
 ## 관련 도서
 
