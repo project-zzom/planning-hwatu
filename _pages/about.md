@@ -39,6 +39,18 @@ gallery:
 * 설계자: 신상재
 * 판매처: <a href="https://bit.ly/3Ge4dui" target="_blank">ZZOM 스토어</a>
 
+![]({{ site.baseurl }}/assets/images/goods/planning-hwatu/card-news-1.jpg)
+
+![]({{ site.baseurl }}/assets/images/goods/planning-hwatu/card-news-2.jpg)
+
+![]({{ site.baseurl }}/assets/images/goods/planning-hwatu/card-news-3.jpg)
+
+![]({{ site.baseurl }}/assets/images/goods/planning-hwatu/card-news-4.jpg)
+
+![]({{ site.baseurl }}/assets/images/goods/planning-hwatu/card-news-5.jpg)
+
+![]({{ site.baseurl }}/assets/images/goods/planning-hwatu/card-news-6.jpg)
+
 ## 관련 도서
 
 ![]({{ site.baseurl }}/assets/images/books/scrum-master.png)
