@@ -36,6 +36,7 @@ gallery:
 
 {% include gallery %}
 
+* 규격: 85 x 65 x 30 mm
 * 설계자: 신상재
 * 판매처: <a href="https://bit.ly/3Ge4dui" target="_blank">ZZOM 스토어</a>
 
