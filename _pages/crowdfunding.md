@@ -1,5 +1,5 @@
 ---
-permalink: /crowd-funding/
+permalink: /crowdfunding/
 title: "크라우드펀딩"
 excerpt: "Estimate workload with team members"
 header:

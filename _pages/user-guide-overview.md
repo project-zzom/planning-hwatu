@@ -3,14 +3,15 @@ permalink: /user-guide-overview/
 title: "사용자 가이드"
 excerpt: "Estimate workload with team members"
 header:
-  overlay_image: /assets/images/banner 1280 x 500.png
+  og_image: /assets/images/user-guide/user-guide-pdf.png
+  overlay_image: /assets/images/header/header-github-pages.png
   overlay_filter: 0.5
 author_profile: false
 sidebar:
     nav: "user-guide-menu"
 ---
 
-#### 플래닝 화투 사용자 가이드 다운로드
+## 플래닝 화투 사용자 가이드 다운로드
 
 <figure>
 <img alt="Project ZZOM" src="{{ site.baseurl }}/assets/images/user-guide/user-guide-pdf.png">
@@ -35,7 +36,7 @@ sidebar:
 | 그라운드 | 카드	테이블 위에 올려두는 공용 카드 |
 | 엑스트라 | 카드	별도 판매되거나 확장된 제품에서 쓰는 카드 |
 
-## 플래닝 포커란?
+### 플래닝 포커란?
 
  소프트웨어를 개발할 때 팀원의 개발 경험을 기반으로 작업량을 추정하는 도구로 '스크럼 포커', '스크럼 카드'라고도 합니다.<br/>
 대표적인 제품으론 <a href="https://www.mountaingoatsoftware.com/" target="_blank">마운틴 고트 소프트웨어</a>의 'PLANNING POKER'가 있습니다.
@@ -50,7 +51,7 @@ sidebar:
 작업량을 추정하기 위해 사용합니다.<br/>
 개발할 소프트웨어에 대한 팀원 간의 인식 차이를 확인하고, 팀원 간의 대화를 통해 시각차를 줄이는 데 유용합니다.
 
-## 플래닝 화투란?
+### 플래닝 화투란?
 
 '플래닝 화투'는 '플래닝 포커'의 기능을 승계하여 리팩터링한 도구면서 기존 룰을 살짝 비틀어서 쓸 수 있게 재설계한 도구입니다.
 
@@ -85,7 +86,3 @@ sidebar:
 * 다이나믹한 타격감
 * 핸드 카드 개수 최소화
 * 1개 데크로 9명까지 사용 가능 (적정 개발자 3~9명)
-
-
-
-

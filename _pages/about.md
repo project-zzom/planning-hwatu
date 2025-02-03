@@ -3,7 +3,7 @@ permalink: /about/
 title: "굿즈 정보"
 excerpt: "Estimate workload with team members"
 header:
-  overlay_image: /assets/images/banner 1280 x 500.png
+  overlay_image: /assets/images/header/header-github-pages.png
   overlay_filter: 0.5
 gallery:
   - url: /assets/images/goods/planning-hwatu/planning-hwatu-case.jpg

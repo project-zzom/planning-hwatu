@@ -3,7 +3,7 @@ permalink: /user-guide-planning-poker/
 title: "사용자 가이드"
 excerpt: "Estimate workload with team members"
 header:
-  overlay_image: /assets/images/banner 1280 x 500.png
+  overlay_image: /assets/images/header/header-github-pages.png
   overlay_filter: 0.5
 author_profile: false
 sidebar:
@@ -18,7 +18,7 @@ sidebar:
 </div>
 -->
 
-<br/>
+## 플래닝 포커
 
 플래닝 포커의 일반적인 사용 방법은 아래 자료를 참고하세요.
 
@@ -26,9 +26,9 @@ sidebar:
 
 여기서는 플래닝 화투의 설명 내용에 앞서 플래닝 포커에 대해 간단히 설명합니다.
 
-# 카드 구성 이해하기
+### 카드 구성 이해하기
 
-## 플래닝 포커의 카드 구성
+#### 플래닝 포커의 카드 구성
 플래닝 포커 구성은 다음과 같습니다.<br/>
 총 54장으로 1개 데크로 최대 4명의 참여자가 쓸 수 있습니다. 
 
@@ -40,7 +40,7 @@ sidebar:
 <figcaption>플래닝 포커의 전체 카드 구성</figcaption>
 </figure>
 
-### 핸드 카드 
+##### 핸드 카드 
 참여자는 다음과 같은 13장의 개인 카드를 손에 듭니다.<br/>
 참여자마다 카드 색이 달라 최대 4명까지 쓸 수 있습니다.
 
@@ -59,9 +59,9 @@ sidebar:
 <img src="{{ site.baseurl }}/assets/images/goods/planning-poker/violet-question.png" width="100">
 <figcaption>핸드 카드 구성</figcaption>
 
-### 핸드 카드의 기능
+#### 핸드 카드의 기능
 
-#### 작업량을 추정
+##### 작업량을 추정
 
 작업량은 피보나치수열을 응용한 숫자로 표현합니다. 뒤로 갈수록 숫자 간격이 크게 벌어지는 게 특징입니다.<br/>
 기본적인 작업량 단위는 '포인트'입니다.
@@ -76,7 +76,7 @@ sidebar:
 | <img src="{{ site.baseurl }}/assets/images/goods/planning-poker/violet-infinity.png" width="50"> | 작업량이 너무 커서 추정이 불가능할 때<br/>(예: 더 작게 분해해야 하는 작업) |
 | <img src="{{ site.baseurl }}/assets/images/goods/planning-poker/violet-question.png" width="50"> | 작업 내용이 불명확해서 추정이 불가능할 때<br/>(예: 추가 설명이 필요한 작업) |
 
-### 엑스트라 카드
+#### 엑스트라 카드
 별도로 구매하거나 한 사람이 20장을 쓰는 제품에 포함되는 카드입니다.
 다음과 같은 카드를 추가로 손에 쥡니다. (<a href="https://www.flaticon.com/free-icons/tea" title="tea icons">커피잔 아이콘 출처: Flaticon</a>)
 
@@ -89,11 +89,9 @@ sidebar:
 <img src="{{ site.baseurl }}/assets/images/goods/planning-poker/violet-break.png" width="100">
 <figcaption>엑스트라 카드 구성</figcaption>
 
+#### 엑스트라 카드의 기능
 
-
-### 엑스트라 카드의 기능
-
-#### 개략적인 크기로 분류
+##### 개략적인 크기로 분류
 
 작업량을 포인트로 추정하기 전에 크기별로 분류할 때 사용합니다.
 
@@ -105,7 +103,7 @@ sidebar:
 | <img src="{{ site.baseurl }}/assets/images/goods/planning-poker/violet-l.png" width="50"> |  조금 큰 일감 |
 | <img src="{{ site.baseurl }}/assets/images/goods/planning-poker/violet-xl.png" width="50"> | 많이 큰 일감 |
 
-#### 추정을 멈춤
+##### 추정을 멈춤
 
 작업량 추정을 멈춰야 할 때 사용합니다.
 
@@ -115,9 +113,9 @@ sidebar:
 
 <br/>
 
-# 사용 방법 이해하기
+### 사용 방법 이해하기
 
-## 참여자
+#### 참여자
 
 추정에 참여하는 사람은 다음과 같습니다.
 
@@ -127,11 +125,11 @@ sidebar:
 | 스크럼 마스터 | 추정 절차나 방법을 안내 |
 | 개발자 | 작업자 관점에서 작업량을 예측 |
 
-## 기준 작업 / 기준 포인트 고르기
+#### 기준 작업 / 기준 포인트 고르기
 
 작업량 추정 전에 기준 작업을 고릅니다. 기준 작업은 작업량이 크지도, 작지도 않은, 참여자 전원이 비슷하게 작업량을 짐작하는 작업입니다.
 
-### 포스트잇을 사용하는 경우
+##### 포스트잇을 사용하는 경우
 
 1 프로덕트 백로그 항목의 내용을 프로덕트 오너가 설명합니다.
 
@@ -158,7 +156,7 @@ sidebar:
 
 일반적으로 기준 작업량은 3 정도로 잡고 단위는 '소요일'이나 '소요시간'과 같은 구체적인 단위가 아닌 '포인트'라는 상대적인 크기를 표현하는 단위를 씁니다. (예: 기준 작업량은 3 포인트)
 
-### 플래닝 포커를 사용하는 경우
+###### 플래닝 포커를 사용하는 경우
 
 플래닝 포커 제품 중에는 XS, S, M, L, XL 카드를 포함한 확장판이 있습니다. (한 사람이 20장을 사용)<br/>
 개인이 쓸 수 있게 핸드 카드로 손에 쥡니다.<br/>
@@ -186,7 +184,7 @@ sidebar:
 
 <br/>
 
-## 작업량 추정하기
+#### 작업량 추정하기
 
 프로덕트 백로그의 작업량을 포인트로 추정합니다.
 

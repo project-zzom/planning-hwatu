@@ -3,7 +3,7 @@ permalink: /user-guide-2/
 title: "사용자 가이드"
 excerpt: "Estimate workload with team members"
 header:
-  overlay_image: /assets/images/banner 1280 x 500.png
+  overlay_image: /assets/images/header/header-github-pages.png
   overlay_filter: 0.5
 author_profile: false
 sidebar:

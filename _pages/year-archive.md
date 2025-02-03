@@ -5,6 +5,6 @@ layout: posts
 author_profile: true
 excerpt: "Estimate workload with team members"
 header:
-  overlay_image: /assets/images/banner 1280 x 500.png
+  overlay_image: /assets/images/header/header-github-pages.png
   overlay_filter: 0.5
 ---

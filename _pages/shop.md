@@ -1,34 +1,75 @@
 ---
 permalink: /shop/
 title: "구매처"
-excerpt: "가장 좋은 조건으로 책을 구매하는 방법"
+excerpt: "가장 편한 시간에 가장 좋은 방법으로 구매하세요"
 header:
-  overlay_image: /assets/images/banner 1280 x 500.png
+  og_image: /assets/images/thumbnail/girl-holding-box-blue-hoodie.png
+  overlay_image: /assets/images/header/header-github-pages.png
   overlay_filter: 0.5
+toc: true
+toc_sticky: true
 ---
+## 판매 채널 안내
 
-현재 ZZOM 스토어에서만 판매하고 있습니다. 
+![]({{ site.url }}{{ site.baseurl }}/assets/images/thumbnail/girl-holding-box-blue-hoodie.png)
 
-* 제품 문의: project.zzom@gmail.com
+### 기본 굿즈
 
-## ZZOM 스토어
+#### 플래닝 화투 (한국형 플래닝 포커)
 
-* 상품 안내: <a href="https://bit.ly/3Ge4dui" target="_blank">ZZOM 스토어</a>
+![Planning Hwatu]({{ site.url }}{{ site.baseurl }}/assets/images/shop/planning-hwatu  (1024 x 1024).png){: .align-center}
 
-![]({{ site.baseurl }}/assets/images/shop/smartstore.png)
+* 재질: 내구성이 강한 플라스틱 재질
+* 크기: 한 손에 쥐기 쉬운 화투 크기
+* 사용 인원: 최대 9명 (참고: 스크럼 적정 팀원 3~9명)
 
-## 온/오프라인 서점
+<a href="https://smartstore.naver.com/zzom/products/7795982587" target="_blank" class="btn btn--info btn--small link-shop">네이버 스마트스토어</a>
+<a href="https://store.kakao.com/zzom/products/327309342" target="_blank" class="btn btn--info btn--small link-shop">카카오 톡딜</a>
+<a href="https://www.coupang.com/vp/products/7818693397" target="_blank" class="btn btn--info btn--small link-shop">쿠팡 파트너스</a>
+<a href="https://service.toss.im/shopping/p/526653" target="_blank" class="btn btn--info btn--small link-shop">토스 쇼핑</a>
+<a href="https://posty.pe/5h5eqy" target="_blank" class="btn btn--info btn--small link-shop">포스타입</a>
 
-* 국내: 교보문고, 알라딘, Yes24 준비 중입니다.
-* 해외: amazon.com, amazon.co.jp 준비 중입니다.
+### 관련 굿즈
 
-![]({{ site.baseurl }}/images/pixabay/books-1842261_1920.jpg)
+#### 스크럼 포커 (애자일 포커)
+
+![Scrum Poker]({{ site.url }}{{ site.baseurl }}/assets/images/shop/scrum-poker.png){: .align-center}
+
+* 재질: 내구성이 약한 종이 재질
+* 크기: 한 손에 쥐기 힘든 트럼프 크기
+* 사용 인원: 최대 4명 (참고: 스크럼 적정 팀원 3~9명)
+
+<a href="https://s.click.aliexpress.com/e/_onyF44V" target="_blank" class="btn btn--info btn--small">알리 익스프레스</a>
+
+#### 개발자 팔찌
+
+![Wristband]({{ site.url }}{{ site.baseurl }}/assets/images/shop/developer-silicon-wristband (1024 x 1024).png){: .align-center}
+
+<a href="https://tumblbug.com/scrum-master" target="_blank" class="btn btn--info btn--small">텀블벅</a> 텀블벅 크라우드펀딩 전용 (비매품) 
+
+#### 출근했더니 스크럼 마스터가 된 건에 관하여
+
+![Book]({{ site.url }}{{ site.baseurl }}/assets/images/shop/scrum-master (1024 x 1024).png){: .align-center}
+
+<a href="http://zzom.io/scrum-master" target="_blank" class="btn btn--info">공식 페이지</a>
+<a href="https://smartstore.naver.com/zzom/products/7616969339" target="_blank" class="btn btn--info btn--small link-shop">네이버 스마트스토어</a>
+<a href="https://store.kakao.com/zzom/products/327304887" target="_blank" class="btn btn--info btn--small link-shop">카카오 톡딜</a>
+<a href="https://link.coupang.com/a/ccyOfd" target="_blank" class="btn btn--info btn--small link-shop">쿠팡 파트너스</a>
+<a href="https://service.toss.im/shopping/p/443611" target="_blank" class="btn btn--info btn--small link-shop">토스 쇼핑</a>
+<a href="https://posty.pe/pl3tb9" target="_blank" class="btn btn--info btn--small link-shop">포스타입</a>
+<a href="https://product.kyobobook.co.kr/detail/S000200083569" target="_blank" class="btn btn--info btn--small link-shop">교보문고</a>
+<a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=304705923" target="_blank" class="btn btn--info btn--small link-shop">알라딘</a>
+<a href="https://www.yes24.com/Product/Goods/115143425" target="_blank" class="btn btn--info btn--small link-shop">Yes24</a>
+
+#### 스크럼 마스터 + 플래닝 화투 + 개발자 팔찌
+
+![Package]({{ site.url }}{{ site.baseurl }}/assets/images/shop/book + card + wristband (1024 x 1024).png){: .align-center}
+
+<a href="https://smartstore.naver.com/zzom/products/9369262815" target="_blank" class="btn btn--info btn--small link-shop">네이버 스마트스토어</a>
+<a href="https://store.kakao.com/zzom/products/327309340" target="_blank" class="btn btn--info btn--small link-shop">카카오 톡딜</a>
+<a href="https://www.coupang.com/vp/products/7818693379" target="_blank" class="btn btn--info btn--small link-shop">쿠팡 파트너스</a>
+<a href="https://service.toss.im/shopping/p/609763" target="_blank" class="btn btn--info btn--small link-shop">토스 쇼핑</a>
+<a href="https://posty.pe/nziyog" target="_blank" class="btn btn--info btn--small link-shop">포스타입</a>
 
 
-## 구매처 정하는 방법
-
-![]({{ site.baseurl }}/images/pixabay/hd-wallpaper-1872682_1280.jpg)
-
-* 해외 배송이 필요한 경우: amazon.com, amazon.co.jp (준비 중)
-* 국내 배송이 필요한 경우: ZZOM 스토어 (준비 중)
-
+{% include custom/affiliate.html %}
