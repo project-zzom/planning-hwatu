@@ -180,4 +180,4 @@ sidebar:
 
 * <a href="mailto:project.zzom@gmail.com">project.zzom@gmail.com</a>
 
-<img alt="Project ZZOM" src="{{ site.baseurl }}/assets/images/zzom-banner-light (1024 x 682).jpg">
+<img alt="Project ZZOM" src="{{ site.baseurl }}/assets/images/banner/zzom-banner-light (1024 x 682).jpg">
