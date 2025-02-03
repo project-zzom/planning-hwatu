@@ -3,6 +3,7 @@ permalink: /user-guide-planning-hwatu/
 title: "사용자 가이드"
 excerpt: "Estimate workload with team members"
 header:
+  og_image: /assets/images/goods/planning-hwatu/planning-hwatu.png
   overlay_image: /assets/images/header/header-github-pages.png
   overlay_filter: 0.5
 author_profile: false

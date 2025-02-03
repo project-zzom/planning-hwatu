@@ -3,6 +3,7 @@ permalink: /about/
 title: "굿즈 정보"
 excerpt: "Estimate workload with team members"
 header:
+  og_image: /assets/images/crowdfunding/crowdfunding-closed-3.png
   overlay_image: /assets/images/header/header-github-pages.png
   overlay_filter: 0.5
 gallery:

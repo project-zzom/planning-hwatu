@@ -3,6 +3,7 @@ permalink: /user-guide-reference/
 title: "참고 자료"
 excerpt: "Estimate workload with team members"
 header:
+  og_image: /assets/images/crowdfunding/crowdfunding-closed-3.png
   overlay_image: /assets/images/header/header-github-pages.png
   overlay_filter: 0.5
 author_profile: false

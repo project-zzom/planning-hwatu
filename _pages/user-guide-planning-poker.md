@@ -3,6 +3,7 @@ permalink: /user-guide-planning-poker/
 title: "사용자 가이드"
 excerpt: "Estimate workload with team members"
 header:
+  og_image: /assets/images/goods/planning-poker/planning-poker.png
   overlay_image: /assets/images/header/header-github-pages.png
   overlay_filter: 0.5
 author_profile: false
