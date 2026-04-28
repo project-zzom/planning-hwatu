@@ -1,3 +1,15 @@
+## 설치 및 설정 방법
+* Ruby 3.2.2-1 버전 다운로드: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.2.2-1/rubyinstaller-devkit-3.2.2-1-x64.exe
+* 3 - MSYS2 and MINGW development toolchain 선택
+
+```
+gem install bundler
+gem install bundle
+bundle install
+bundle update
+bundle exec jekyll serve
+```
+
 # Minimal Mistakes remote theme starter
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
