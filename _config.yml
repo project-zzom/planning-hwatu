@@ -155,6 +155,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jemoji
+  - jekyll-redirect-from
 
 # mimic GitHub Pages with --safe
 whitelist:
