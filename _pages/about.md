@@ -35,6 +35,18 @@ gallery:
 
 ## 굿즈 정보
 
+{% include video id="x3_9hbuEhG4" provider="youtube" %}
+
+{% include figure popup=true image_path="/assets/images/mockup/planning-hwatu (1024 x 1024).png" %}
+
+<a href="https://smartstore.naver.com/zzom/products/7795982587" target="_blank" class="btn btn--info btn--small link-shop">네이버 스마트스토어</a>
+<a href="https://store.kakao.com/zzom/products/327309342" target="_blank" class="btn btn--info btn--small link-shop">카카오 톡딜</a>
+<a href="https://www.coupang.com/vp/products/7818693397" target="_blank" class="btn btn--info btn--small link-shop">쿠팡 마이샵</a>
+<a href="https://service.toss.im/shopping/p/526653" target="_blank" class="btn btn--info btn--small link-shop">토스 쇼핑</a>
+<a href="https://posty.pe/5h5eqy" target="_blank" class="btn btn--info btn--small link-shop">포스타입</a>
+
+{% include custom/affiliate.html %}
+
 {% include gallery %}
 
 * 규격: 85 x 65 x 30 mm
