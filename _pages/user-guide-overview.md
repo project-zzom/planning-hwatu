@@ -9,6 +9,8 @@ header:
 author_profile: false
 sidebar:
     nav: "user-guide-menu"
+toc: true
+toc_sticky: true    
 ---
 
 ## 플래닝 화투 사용자 가이드 다운로드
