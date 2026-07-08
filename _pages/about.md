@@ -42,7 +42,6 @@ gallery:
 <a href="https://smartstore.naver.com/zzom/products/7795982587" target="_blank" class="btn btn--info btn--small link-shop">네이버 스마트스토어</a>
 <a href="https://store.kakao.com/zzom/products/327309342" target="_blank" class="btn btn--info btn--small link-shop">카카오 톡딜</a>
 <a href="https://service.toss.im/shopping/p/526653" target="_blank" class="btn btn--info btn--small link-shop">토스 쇼핑</a>
-<a href="https://posty.pe/5h5eqy" target="_blank" class="btn btn--info btn--small link-shop">포스타입</a>
 
 {% include custom/affiliate.html %}
 
