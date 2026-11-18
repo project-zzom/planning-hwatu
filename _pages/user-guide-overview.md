@@ -3,8 +3,8 @@ permalink: /user-guide-overview/
 title: "사용자 가이드"
 excerpt: "화투 패로 하는 플래닝 포커. 9명까지 한 세트로, 추정 회의를 빠르고 재미있게"
 header:
-  og_image: /assets/images/user-guide/user-guide-pdf.png
-  overlay_image: /assets/images/header/header-github-pages.png
+  og_image: /assets/images/user-guide/user-guide-pdf-1600x1533.jpg
+  overlay_image: /assets/images/header/header-github-pages-1280x500.jpg
   overlay_filter: 0.5
 author_profile: false
 sidebar:
@@ -16,7 +16,7 @@ toc_sticky: true
 ## 플래닝 화투 사용자 가이드 다운로드
 
 <figure>
-<img alt="Project ZZOM" src="{{ site.baseurl }}/assets/images/user-guide/user-guide-pdf.png">
+<img alt="Project ZZOM" src="{{ site.baseurl }}/assets/images/user-guide/user-guide-pdf-1600x1533.jpg">
 <figcaption>펼침면 2페이지 보기용 사용자 가이드</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ toc_sticky: true
 대표적인 제품으론 <a href="https://www.mountaingoatsoftware.com/" target="_blank">마운틴 고트 소프트웨어</a>의 'PLANNING POKER'가 있습니다.
 
 <figure>
-<img alt="Project ZZOM" src="{{ site.baseurl }}/assets/images/goods/planning-poker/planning-poker-goods.png">
+<img alt="Project ZZOM" src="{{ site.baseurl }}/assets/images/goods/planning-poker/planning-poker-goods-1600x1201.jpg">
 <figcaption>플래닝 포커 사진 (aliexpress에서 구입 가능한 scrum poker)</figcaption>
 </figure>
 
@@ -58,7 +58,7 @@ toc_sticky: true
 '플래닝 화투'는 '플래닝 포커'의 기능을 승계하여 리팩터링한 도구면서 기존 룰을 살짝 비틀어서 쓸 수 있게 재설계한 도구입니다.
 
 <figure>
-<img alt="Project ZZOM" src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/planning-hwatu-goods.png">
+<img alt="Project ZZOM" src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/planning-hwatu-goods-1600x1201.jpg">
 <figcaption>플래닝 화투 사진 (프로토타입)</figcaption>
 </figure>
 

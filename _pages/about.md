@@ -4,40 +4,40 @@ title: "굿즈 정보"
 excerpt: "화투 패로 하는 플래닝 포커. 9명까지 한 세트로, 추정 회의를 빠르고 재미있게"
 header:
   og_image: /assets/images/goods/planning-hwatu/planning-hwatu-flower-1200x901.jpg
-  overlay_image: /assets/images/header/header-github-pages.png
+  overlay_image: /assets/images/header/header-github-pages-1280x500.jpg
   overlay_filter: 0.5
 gallery:
   - url: /assets/images/goods/planning-hwatu/planning-hwatu-case.jpg
-    image_path: /assets/images/goods/planning-hwatu/planning-hwatu-case.jpg
+    image_path: /assets/images/goods/planning-hwatu/planning-hwatu-case-1600x1201.jpg
   - url: /assets/images/goods/planning-hwatu/planning-hwatu-flower.jpg
-    image_path: /assets/images/goods/planning-hwatu/planning-hwatu-flower.jpg
-  - url: /assets/images/goods/planning-hwatu/planning-hwatu-hand-card.jpg
-    image_path: /assets/images/goods/planning-hwatu/planning-hwatu-card.jpg
+    image_path: /assets/images/goods/planning-hwatu/planning-hwatu-flower-1600x1201.jpg
+  - url: /assets/images/goods/planning-hwatu/planning-hwatu-card.jpg
+    image_path: /assets/images/goods/planning-hwatu/planning-hwatu-card-1600x1201.jpg
   - url: /assets/images/goods/planning-hwatu/IMG_20221222_225503.jpg
-    image_path: /assets/images/goods/planning-hwatu/IMG_20221222_225503.jpg
+    image_path: /assets/images/goods/planning-hwatu/IMG_20221222_225503-1600x1201.jpg
   - url: /assets/images/goods/planning-hwatu/IMG_20221222_224939.jpg
-    image_path: /assets/images/goods/planning-hwatu/IMG_20221222_224939.jpg
+    image_path: /assets/images/goods/planning-hwatu/IMG_20221222_224939-1600x1201.jpg
   - url: /assets/images/goods/planning-hwatu/IMG_20221222_223229.jpg
-    image_path: /assets/images/goods/planning-hwatu/IMG_20221222_223229.jpg
+    image_path: /assets/images/goods/planning-hwatu/IMG_20221222_223229-1600x1201.jpg
   - url: /assets/images/mockup/card-mockup-1.png
-    image_path: /assets/images/mockup/card-mockup-1.png
+    image_path: /assets/images/mockup/card-mockup-1-1600x1200.jpg
   - url: /assets/images/mockup/card-mockup-2.png
-    image_path: /assets/images/mockup/card-mockup-2.png
+    image_path: /assets/images/mockup/card-mockup-2-1600x1201.jpg
   - url: /assets/images/mockup/card-mockup-3.png
-    image_path: /assets/images/mockup/card-mockup-3.png
+    image_path: /assets/images/mockup/card-mockup-3-1600x1200.jpg
   - url: /assets/images/mockup/card-mockup-4.png
-    image_path: /assets/images/mockup/card-mockup-4.png
+    image_path: /assets/images/mockup/card-mockup-4-1600x1201.jpg
   - url: /assets/images/mockup/card-mockup-5.png
-    image_path: /assets/images/mockup/card-mockup-5.png
+    image_path: /assets/images/mockup/card-mockup-5-1600x1201.jpg
   - url: /assets/images/mockup/card-mockup-6.png
-    image_path: /assets/images/mockup/card-mockup-6.png
+    image_path: /assets/images/mockup/card-mockup-6-1600x1201.jpg
 ---
 
 ## 굿즈 정보
 
 {% include video id="x3_9hbuEhG4" provider="youtube" %}
 
-{% include figure popup=true image_path="/assets/images/mockup/planning-hwatu (1024 x 1024).png" %}
+<figure><a href="{{ '/assets/images/mockup/planning-hwatu (1024 x 1024).png' | relative_url }}" class="image-popup"><img src="{{ '/assets/images/mockup/planning-hwatu (1024 x 1024)-1024x1024.jpg' | relative_url }}" alt=""></a></figure>
 
 <a href="https://smartstore.naver.com/zzom/products/7795982587" target="_blank" class="btn btn--info btn--small link-shop">네이버 스마트스토어</a>
 <a href="https://store.kakao.com/zzom/products/327309342" target="_blank" class="btn btn--info btn--small link-shop">카카오 톡딜</a>

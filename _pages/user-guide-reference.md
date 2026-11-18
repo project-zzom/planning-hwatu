@@ -4,7 +4,7 @@ title: "참고 자료"
 excerpt: "화투 패로 하는 플래닝 포커. 9명까지 한 세트로, 추정 회의를 빠르고 재미있게"
 header:
   og_image: /assets/images/goods/planning-hwatu/planning-hwatu-flower-1200x901.jpg
-  overlay_image: /assets/images/header/header-github-pages.png
+  overlay_image: /assets/images/header/header-github-pages-1280x500.jpg
   overlay_filter: 0.5
 author_profile: false
 sidebar:
@@ -15,7 +15,7 @@ sidebar:
 ### 출근했더니 스크럼 마스터가 된 건에 관하여
 애자일 소프트웨어 개발을 위한 스크럼 입문서입니다. 본 가이드에서 설명한 플래닝 포커를 활용하는 방법이나 프로덕트 백로그의 작업량을 추정하는 방법에 대해 만화와 해설로 설명되어 있습니다.
 
-{% include figure popup=true image_path="/assets/images/books/mockup-scrum-master.png" %}
+<figure><a href="{{ '/assets/images/books/mockup-scrum-master.png' | relative_url }}" class="image-popup"><img src="{{ '/assets/images/books/mockup-scrum-master-1600x1600.jpg' | relative_url }}" alt=""></a></figure>
 
 <a href="https://smartstore.naver.com/zzom/products/7616969339" target="_blank" class="btn btn--info btn--small link-shop">네이버 스마트스토어</a>
 <a href="https://store.kakao.com/zzom/products/327304887" target="_blank" class="btn btn--info btn--small link-shop">카카오 톡딜</a>
@@ -28,7 +28,7 @@ sidebar:
 ### 처음 배우는 그래픽 레코딩
 아이디어를 그림으로 기록하는 그래픽 레코딩 입문서입니다. 본 가이드에서 플래닝 포커와 플래닝 화투를 설명하기 위해 머릿속의 생각을 이미지로 표현하는 데 활용되었습니다.
 
-{% include figure popup=true image_path="/assets/images/books/mockup-graphic-recording.png" %}
+<figure><a href="{{ '/assets/images/books/mockup-graphic-recording.png' | relative_url }}" class="image-popup"><img src="{{ '/assets/images/books/mockup-graphic-recording-1600x1600.jpg' | relative_url }}" alt=""></a></figure>
 
 <a href="https://smartstore.naver.com/zzom/products/6237850646" target="_blank" class="btn btn--info btn--small link-shop">네이버 스마트스토어</a>
 <a href="https://store.kakao.com/zzom/products/327297939" target="_blank" class="btn btn--info btn--small link-shop">카카오 톡딜</a>

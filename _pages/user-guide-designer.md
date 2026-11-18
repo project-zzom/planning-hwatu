@@ -4,7 +4,7 @@ title: "설계자의 말"
 excerpt: "화투 패로 하는 플래닝 포커. 9명까지 한 세트로, 추정 회의를 빠르고 재미있게"
 header:
   og_image: /assets/images/goods/planning-hwatu/planning-hwatu-flower-1200x901.jpg
-  overlay_image: /assets/images/header/header-github-pages.png
+  overlay_image: /assets/images/header/header-github-pages-1280x500.jpg
   overlay_filter: 0.5
 author_profile: false
 sidebar:
