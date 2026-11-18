@@ -1,7 +1,7 @@
 ---
 permalink: /crowd-funding/
 title: "크라우드펀딩"
-excerpt: "Estimate workload with team members"
+excerpt: "화투 패로 하는 플래닝 포커. 9명까지 한 세트로, 추정 회의를 빠르고 재미있게"
 header:
   og_image: /assets/images/crowdfunding/crowdfunding-closed-3.png
   overlay_image: /assets/images/header/header-github-pages.png
