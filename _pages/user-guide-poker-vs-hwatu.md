@@ -85,7 +85,7 @@ sidebar:
 
 #### 플래닝 화투 계열
 
-* <a href="" target="_blank">Planning Hwatu (Smartstore)</a> (준비 중)
+* <a href="https://smartstore.naver.com/zzom/products/7795982587" target="_blank">Planning Hwatu (Smartstore)</a>
 * <a href="" target="_blank">Planning Hwatu (Amazon US)</a> (준비 중)
 * <a href="" target="_blank">Planning Hwatu (Amazon JP)</a> (준비 중)
 
