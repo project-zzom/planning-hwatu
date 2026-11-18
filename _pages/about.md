@@ -47,7 +47,6 @@ gallery:
 
 * 규격: 85 x 65 x 30 mm
 * 설계자: 신상재
-* 판매처: <a href="https://bit.ly/3Ge4dui" target="_blank">ZZOM 스토어</a>
 
 ![]({{ site.baseurl }}/assets/images/goods/planning-hwatu/card-news-1.jpg)
 
@@ -65,12 +64,12 @@ gallery:
 
 ![]({{ site.baseurl }}/assets/images/books/scrum-master.png)
 
-* 출근했더니 스크럼 마스터가 된 건에 관하여 <a href="http://zzom.io/scrum-master" target="_blank" class="btn btn--info">공식 페이지</a>
+* 출근했더니 스크럼 마스터가 된 건에 관하여 <a href="https://zzom.io/scrum-master/" target="_blank" class="btn btn--info">공식 페이지</a>
 
 [Amazon]: https://www.amazon.co.jp/dp/B086GBXRN6/ref=cm_sw_em_r_mt_dp_G837S51HWFJP8FMA9DAC
 [교보문고]: https://product.kyobobook.co.kr/detail/S000200083569
 [알라딘]: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=304705923
-[Yes24]: http://www.yes24.com/Product/Goods/115143425
+[Yes24]: https://www.yes24.com/Product/Goods/115143425
 [ZZOM 스토어]: https://smartstore.naver.com/zzom/products/7616969339
 
 {% include custom/affiliate.html %}

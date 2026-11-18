@@ -49,7 +49,7 @@ toc_sticky: true
 
 ![Book]({{ site.url }}{{ site.baseurl }}/assets/images/shop/scrum-master (1024 x 1024)-1024x1024.jpg){: .align-center}
 
-<a href="http://zzom.io/scrum-master" target="_blank" class="btn btn--info">공식 페이지</a>
+<a href="https://zzom.io/scrum-master/" target="_blank" class="btn btn--info">공식 페이지</a>
 <a href="https://smartstore.naver.com/zzom/products/7616969339" target="_blank" class="btn btn--info btn--small link-shop">네이버 스마트스토어</a>
 <a href="https://store.kakao.com/zzom/products/327304887" target="_blank" class="btn btn--info btn--small link-shop">카카오 톡딜</a>
 <a href="https://service.toss.im/shopping/p/443611" target="_blank" class="btn btn--info btn--small link-shop">토스 쇼핑</a>
