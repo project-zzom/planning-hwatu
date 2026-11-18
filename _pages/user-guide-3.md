@@ -217,7 +217,7 @@ sidebar:
 
 1 각자 생각한 작업량의 크기를 카드로 표현합니다. 이때 모든 참여자가 동시에 제시합니다.
 
-<img alt="산정하기" src="{{ site.baseurl }}/assets/images/user-guide/플래닝_포커로_작업량(포인트)_산정하기.png" width="60%">
+<img alt="산정하기" src="{{ site.baseurl }}/assets/images/user-guide/플래닝_포커로_작업량(포인트)_산정하기_1.png" width="60%">
 <br/>
 
 2 추정한 작업량의 차이가 크면 서로의 생각을 공유합니다.
