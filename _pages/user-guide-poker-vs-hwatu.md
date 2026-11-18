@@ -62,7 +62,7 @@ sidebar:
 | 항목 | 플래닝 포커 | 플래닝 화투 |
 | - | - | - |
 | 휴식 카드 | <img src="{{ site.baseurl }}/assets/images/goods/planning-poker/violet-break.png" width="50"> | <img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu/black-asterisk.png" width="50"> |
-| 표현 법법 | 손에 쥔 카드를 제시 | 바닥에 놓인 카드를 타격 |
+| 표현 방법 | 손에 쥔 카드를 제시 | 바닥에 놓인 카드를 타격 |
 
 ### 카드 재질 / 내구성 / 가격
 
