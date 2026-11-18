@@ -3,7 +3,7 @@ permalink: /user-guide-designer/
 title: "설계자의 말"
 excerpt: "Estimate workload with team members"
 header:
-  og_image: /assets/images/crowdfunding/crowdfunding-closed-3.png
+  og_image: /assets/images/goods/planning-hwatu/planning-hwatu-flower-1200x901.jpg
   overlay_image: /assets/images/header/header-github-pages.png
   overlay_filter: 0.5
 author_profile: false
