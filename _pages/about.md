@@ -39,9 +39,11 @@ gallery:
 
 <figure><a href="{{ '/assets/images/mockup/planning-hwatu (1024 x 1024).png' | relative_url }}" class="image-popup"><img src="{{ '/assets/images/mockup/planning-hwatu (1024 x 1024)-1024x1024.jpg' | relative_url }}" alt=""></a></figure>
 
-<a href="https://smartstore.naver.com/zzom/products/7795982587" target="_blank" class="btn btn--info btn--small link-shop">네이버 스마트스토어</a>
-<a href="https://store.kakao.com/zzom/products/327309342" target="_blank" class="btn btn--info btn--small link-shop">카카오 톡딜</a>
-<a href="https://toss.im/_m/V9DG8dsB" target="_blank" class="btn btn--info btn--small link-shop">토스 쇼핑</a>
+<p><a href="https://smartstore.naver.com/zzom/products/7795982587" target="_blank" class="btn btn--success btn--large link-shop">지금 구매하기 (네이버 스마트스토어)</a></p>
+
+<p>다른 판매처:
+<a href="https://store.kakao.com/zzom/products/327309342" target="_blank" class="link-shop">카카오 톡딜</a> ·
+<a href="https://toss.im/_m/V9DG8dsB" target="_blank" class="link-shop">토스 쇼핑</a></p>
 
 {% include gallery %}
 
