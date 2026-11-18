@@ -36,5 +36,3 @@ sidebar:
 <a href="https://product.kyobobook.co.kr/detail/S000001986426" target="_blank" class="btn btn--info btn--small link-shop">교보문고</a>
 <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=279313050" target="_blank" class="btn btn--info btn--small link-shop">알라딘</a>
 <a href="https://www.yes24.com/Product/Goods/103597086" target="_blank" class="btn btn--info btn--small link-shop">Yes24</a>
-
-{% include custom/affiliate.html %}

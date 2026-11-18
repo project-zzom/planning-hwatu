@@ -43,8 +43,6 @@ gallery:
 <a href="https://store.kakao.com/zzom/products/327309342" target="_blank" class="btn btn--info btn--small link-shop">카카오 톡딜</a>
 <a href="https://toss.im/_m/V9DG8dsB" target="_blank" class="btn btn--info btn--small link-shop">토스 쇼핑</a>
 
-{% include custom/affiliate.html %}
-
 {% include gallery %}
 
 * 규격: 85 x 65 x 30 mm
@@ -74,3 +72,5 @@ gallery:
 [알라딘]: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=304705923
 [Yes24]: http://www.yes24.com/Product/Goods/115143425
 [ZZOM 스토어]: https://smartstore.naver.com/zzom/products/7616969339
+
+{% include custom/affiliate.html %}
